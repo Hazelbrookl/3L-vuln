@@ -83,11 +83,11 @@ if __name__ == "__main__":
         st.markdown('---')
         st.markdown('此工具的介绍：\n- 原始存储漏洞报告主体来源为NVD，漏洞类型和标题字段来源于CNNVD\n- 支持对输入报告的重复检测、标题拟定、漏洞分类、危害评估等四个功能\n- 支持查看工具使用记录')
         col1, col2, col3= st.columns(3)
-        col1.button("function", on_click=lambda: call_back_switchPage(PAGE_FUNCTION))
-        col2.button("dataset", on_click=lambda: call_back_switchPage(PAGE_DATASET))
-        col3.button("history", on_click=lambda: call_back_switchPage(PAGE_HISTORY))
+        col1.button("功能", on_click=lambda: call_back_switchPage(PAGE_FUNCTION))
+        col2.button("数据", on_click=lambda: call_back_switchPage(PAGE_DATASET))
+        col3.button("历史", on_click=lambda: call_back_switchPage(PAGE_HISTORY))
         col1, col2, col3= st.columns(3)
-        col1.button("search", on_click=lambda: call_back_switchPage(PAGE_SEARCH))
+        col1.button("搜索", on_click=lambda: call_back_switchPage(PAGE_SEARCH))
         st.write("国家信息安全漏洞库(CNNVD)")
         st.write("https://www.cnnvd.org.cn/home/childHome/")
         st.write("National Vulnerability Database(NVD)")
@@ -107,7 +107,7 @@ if __name__ == "__main__":
 
     if st.session_state.current_page == PAGE_FUNCTION:
               
-        st.title("Function")
+        st.title("功能")
 
         col1, col2, col3, col4 = st.columns(4)
 
@@ -195,12 +195,12 @@ if __name__ == "__main__":
 
     elif st.session_state.current_page == PAGE_DATASET:
         
-        st.title("Dataset")
+        st.title("数据")
         st.dataframe(df, use_container_width=True, height=600)
 
     elif st.session_state.current_page == PAGE_HISTORY:
 
-        st.title("History")
+        st.title("历史")
         if df_history.empty:
             header_component = st.header("暂无历史记录")
         else:
@@ -215,7 +215,7 @@ if __name__ == "__main__":
 
     elif st.session_state.current_page == PAGE_DETAIL:
 
-        st.title("History")
+        st.title("历史")
 
         df_detail = st.session_state.detail
         if df_detail is not None:
@@ -267,7 +267,7 @@ if __name__ == "__main__":
 
     elif st.session_state.current_page == PAGE_SEARCH:
 
-        st.title("Search")
+        st.title("搜索")
         search_input = st.text_input("输入查询内容", "")
         st.button("Go!", on_click=lambda: call_back_bingSearch(search_input))
         search_response = st.session_state.search_response
