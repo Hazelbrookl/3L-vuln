@@ -1,0 +1,3412 @@
+Improper Neutralization of Input During,ORG,0
+"Restricted Content, Users & Roles",ORG,0
+Enhanced Security,ORG,0
+Advanced Access,ORG,0
+"Restricted Content, Users & Roles",ORG,0
+Enhanced Security,ORG,0
+6.9.18,CARDINAL,0
+XSS,GPE,1
+Upgrade,ORG,1
+10.0.12,CARDINAL,1
+Improper Neutralization of Input During,ORG,2
+Metagauss RegistrationMagic,PERSON,2
+User Login,PERSON,2
+RegistrationMagic – Custom Registration Forms,ORG,2
+5.2.4.1,CARDINAL,2
+Improper Neutralization of Input During,ORG,3
+WPCS,ORG,3
+WPCS,ORG,3
+1.2.0,CARDINAL,3
+LDAP,ORG,4
+10.0.12,CARDINAL,4
+Improper Neutralization of Input During,ORG,5
+Torbjon Infogram,ORG,5
+Infogram – Add,ORG,5
+Academy Software Foundation,ORG,6
+3.2.1,CARDINAL,6
+Improper Neutralization of Input During,ORG,7
+LJ Apps WP Review Slider,ORG,7
+Stored XSS.This,PERSON,7
+WP Review Slider,ORG,7
+12.7,CARDINAL,7
+Improper Neutralization of Input During,ORG,8
+Neil,PERSON,8
+SlickNav Mobile Menu,ORG,8
+1.9.2,DATE,8
+Improper Neutralization of Input During,ORG,9
+Icegram Icegram Engage,ORG,9
+CTA,ORG,9
+Optins,ORG,9
+Email List Building,WORK_OF_ART,9
+Icegram Engage,ORG,9
+CTA,ORG,9
+Optins,ORG,9
+Email List Building,WORK_OF_ART,9
+Crafatar,ORG,10
+Minecraft,ORG,10
+Cloudflare,ORG,10
+Docker,PERSON,10
+2.1.5,CARDINAL,10
+IP,ORG,11
+Improper Neutralization of Input During,ORG,12
+Kerry James,PERSON,12
+1.7,CARDINAL,12
+Improper Neutralization of Input During,ORG,13
+WPdevelop / Oplugins,ORG,13
+WP Booking Calendar,PRODUCT,13
+Improper Neutralization of Input During,ORG,14
+Codeboxr Team CBX Bookmark & Favorite,ORG,14
+CBX Bookmark & Favorite,ORG,14
+Cross Site Scripting,ORG,15
+Cross-Site Request Forgery,ORG,16
+5d88731,PRODUCT,16
+HTTP 419,LAW,16
+Improper Neutralization of Input During,ORG,17
+Easy Digital Downloads Easy Digital Downloads,ORG,17
+Easy Digital Downloads,ORG,17
+3.2.5,CARDINAL,17
+IBM,ORG,18
+1.0,CARDINAL,18
+IBM X-Force,ORG,18
+260577,DATE,18
+Improper Neutralization of Input During,ORG,19
+Michael Uno,PERSON,19
+Amazon Associates Affiliate Plugin,ORG,19
+Stored XSS.This,PERSON,19
+Auto Amazon Links – Amazon Associates Affiliate Plugin,ORG,19
+IBM,ORG,20
+1.3,CARDINAL,20
+2.0,CARDINAL,20
+2.1,CARDINAL,20
+IBM X-Force,ORG,20
+275129,DATE,20
+Improper Neutralization of Input During,ORG,21
+Shortcodes Finder:,PERSON,21
+1.5.5,DATE,21
+Dell PowerScale OneFS,ORG,22
+9.0.0.x,CARDINAL,22
+9.6.0.x,CARDINAL,22
+Improper Neutralization of Input During,ORG,23
+naa986 Easy Video Player,ORG,23
+Easy Video Player,ORG,23
+1.2.2.10,CARDINAL,23
+Insertion of Sensitive Information,ORG,24
+Log File,ORG,24
+2019,DATE,24
+Release 2024,EVENT,24
+XML,ORG,25
+XSS,GPE,26
+Travel Journal Using PHP,ORG,26
+Improper Neutralization of Input During,ORG,27
+Stored XSS.This,PERSON,27
+WP User Profile Avatar,ORG,27
+1.0,CARDINAL,27
+Improper Neutralization of Input During,ORG,28
+Advanced,GPE,28
+2023.8,CARDINAL,28
+Improper Neutralization of Input During,ORG,29
+Jhayghost Ideal Interactive Map,ORG,29
+Stored XSS.This,PERSON,29
+Ideal Interactive,ORG,29
+1.2.4,CARDINAL,29
+Cross Site Scripting,ORG,30
+XSS,GPE,30
+is_water,ORG,30
+Improper Neutralization of Input During,ORG,31
+Keap Keap Official Opt-in Forms,WORK_OF_ART,31
+Keap Official Opt-in Forms,ORG,31
+1.0.11,CARDINAL,31
+Improper Neutralization of Input During,ORG,32
+Epiphyt Embed Privacy,ORG,32
+Embed Privacy,ORG,32
+Improper Neutralization of Input During,ORG,33
+Themify Icons,FAC,33
+Stored XSS.This,PERSON,33
+Themify Icons,ORG,33
+2.0.1,CARDINAL,33
+Helix Sync,LOC,34
+2024.1,CARDINAL,34
+Bryan Riggins,PERSON,34
+Moby,PERSON,35
+Docker,GPE,35
+HEALTHCHECK,ORG,35
+ONBUILD,PERSON,35
+Dockerfile,ORG,35
+23.0,CARDINAL,35
+DOCKER_BUILDKIT=0,ORG,35
+API,ORG,35
+API,ORG,35
+ImageBuild,ORG,35
+24.0.9,CARDINAL,35
+25.0.2,CARDINAL,35
+Improper Neutralization of Input During,ORG,36
+gVectors Team Comments,ORG,36
+Comments,ORG,36
+7.6.12,WORK_OF_ART,36
+Vyper,PERSON,37
+Smart Contract Language,LAW,37
+0.3.10,GPE,37
+OOB,ORG,37
+XSS,GPE,38
+Travel Journal Using PHP,ORG,38
+Improper Neutralization of Input During,ORG,39
+WooCommerce,ORG,39
+Product Code for WooCommerce,ORG,39
+1.4.4,CARDINAL,39
+Cross Site Scripting,ORG,40
+XSS,GPE,40
+Improper Neutralization of Input During,ORG,41
+Magazine3 Schema & Structured Data,ORG,41
+WP & AMP,ORG,41
+Schema & Structured Data,ORG,41
+WP & AMP,ORG,41
+1.23,CARDINAL,41
+Git,PERSON,42
+CMS,ORG,42
+jpg files,PERSON,42
+XSS,GPE,42
+XSS,GPE,42
+XSS,GPE,42
+4.46.0,CARDINAL,42
+XSS,GPE,42
+PHP,ORG,43
+AWS Lambda,ORG,43
+Bref,ORG,43
+the Event-Driven Function,ORG,43
+Lambda,NORP,43
+PHP,ORG,43
+Lambda,NORP,43
+MultiPart,ORG,43
+IBM,ORG,44
+1.0,CARDINAL,44
+IBM X-Force,ORG,44
+260575,DATE,44
+Improper Neutralization of Input During,ORG,45
+WP Smart,PERSON,45
+JoomUnited,ORG,45
+JoomUnited,ORG,45
+1.3.3,CARDINAL,45
+Improper Neutralization of Input During,ORG,46
+Composer,PERSON,46
+Page Builder: Live Composer,PERSON,46
+1.5.23,CARDINAL,46
+Java,PERSON,47
+1.1.1,CARDINAL,47
+ZipSecurity,ORG,47
+1.1.2,CARDINAL,47
+Improper Neutralization of Input During,ORG,48
+Takayuki Miyauchi oEmbed Gist,ORG,48
+oEmbed Gist:,ORG,48
+4.9.1,DATE,48
+Improper Neutralization of Input During,ORG,49
+"WPEverest Everest Forms – Build Contact Forms, Surveys, Polls, Application Forms",ORG,49
+Stored XSS.This,PERSON,49
+"Everest Forms – Build Contact Forms, Surveys, Polls, Application Forms",ORG,49
+2.0.4.1,CARDINAL,49
+Improper Neutralization of Input During,ORG,50
+Russell Jamieson Footer Putter,PERSON,50
+Stored XSS.This,PERSON,50
+Footer Putter,PERSON,50
+1.17,CARDINAL,50
+Improper Neutralization of Input During,ORG,51
+Brave Brave – Create Popup,ORG,51
+Optins,ORG,51
+Sticky Elements & Interactive Content,ORG,51
+Optins,ORG,51
+Sticky Elements & Interactive Content,ORG,51
+Improper Neutralization of Input During,ORG,52
+CRM Perks CRM Perks Forms – WordPress Form Builder,PRODUCT,52
+CRM Perks Forms – WordPress Form Builder,PRODUCT,52
+1.1.2,CARDINAL,52
+IBM Operational,ORG,53
+8.10.3,CARDINAL,53
+8.10.4,DATE,53
+8.10.5.1,DATE,53
+8.11,CARDINAL,53
+8.11.0.1,DATE,53
+8.12.0.1,CARDINAL,53
+JNDI,ORG,53
+API,ORG,53
+IBM X-Force,ORG,53
+279145,DATE,53
+20231128,DATE,54
+QTS 4.5.4.2627,ORG,54
+20231225,DATE,54
+QuTS,PRODUCT,54
+20231128,DATE,54
+QuTS,PRODUCT,54
+20231225,DATE,54
+Path Traversal,PERSON,55
+B&R Industrial Automation Automation Studio,ORG,55
+Path Traversal,PERSON,55
+Automation Studio,ORG,55
+4.0,CARDINAL,55
+4.12,CARDINAL,55
+7270,DATE,56
+Authenticated,GPE,56
+Graph-Data,ORG,56
+Photo Station,ORG,57
+2023/12/15,CARDINAL,57
+1.11.9,CARDINAL,58
+Vyper,PERSON,59
+Pythonic Smart Contract Language,ORG,59
+byte 28,ORG,59
+byte 0,ORG,59
+ABIv2,NORP,59
+SourceCodester Testimonial Page,ORG,60
+1.0,CARDINAL,60
+Request Handler,PERSON,60
+VDB-252694,PERSON,60
+20231128,DATE,61
+QuTS,PRODUCT,61
+20231128,DATE,61
+AntiSamy,PRODUCT,62
+HTML,ORG,62
+AntiSamy,PRODUCT,62
+HTML,ORG,62
+AntiSamy,PRODUCT,62
+AntiSamy 1.7.5,FAC,62
+Zoho ManageEngine ADAudit Plus,PERSON,63
+7250,DATE,63
+SQL Injection,ORG,63
+SQL,ORG,64
+20240116,DATE,64
+QTS 4.5.4.2627,ORG,64
+20231225,DATE,64
+QuTS,PRODUCT,64
+20240118,DATE,64
+QuTS,PRODUCT,64
+20231225,DATE,64
+IBM,ORG,65
+1.3,CARDINAL,65
+2.0,CARDINAL,65
+2.1,CARDINAL,65
+IBM X-Force,ORG,65
+275131,DATE,65
+1.0.1,CARDINAL,66
+Miro Desktop 0.8.18,PERSON,67
+IBM,ORG,68
+8.10.3,CARDINAL,68
+8.10.4,DATE,68
+8.10.5.1,DATE,68
+8.11,CARDINAL,68
+8.11.0.1,DATE,68
+8.12.0.1,DATE,68
+SYSTEM,ORG,68
+IBM X-Force,ORG,68
+279146,DATE,68
+IBM Tivoli Application Dependency,ORG,69
+Discovery,PRODUCT,69
+7.3.0.0,CARDINAL,69
+7.3.0.10,CARDINAL,69
+API,ORG,69
+IBM X-Force,ORG,69
+270267,DATE,69
+20231128,DATE,70
+QuTS,PRODUCT,70
+20231128,DATE,70
+Unrestricted Upload of File,ORG,71
+National Keep Cyber Security Services,ORG,71
+CyberMath,PRODUCT,71
+Upload a Web Shell,WORK_OF_ART,71
+CyberMath,NORP,71
+IBM,ORG,72
+1.3,CARDINAL,72
+2.0,CARDINAL,72
+2.1,CARDINAL,72
+IBM X-Force,ORG,72
+275116,DATE,72
+DLL,ORG,73
+IBM,ORG,74
+5.3z1,DATE,74
+RGW,ORG,74
+IBM X-Force,ORG,74
+268906,DATE,74
+IBM,ORG,75
+Faspex 5.0.6,FAC,75
+JavaScript,PRODUCT,75
+IBM X-Force,ORG,75
+236441,DATE,75
+20240116,DATE,76
+QTS,ORG,76
+4.5.4.2627,CARDINAL,76
+20231225,DATE,76
+QuTS,PRODUCT,76
+20240118,DATE,76
+QuTS,PRODUCT,76
+20231225,DATE,76
+IBM,ORG,77
+1.3,CARDINAL,77
+2.0,CARDINAL,77
+2.1,CARDINAL,77
+IBM X-Force,ORG,77
+275114,DATE,77
+20240116,DATE,78
+QuTS,PRODUCT,78
+20240118,DATE,78
+20231128,DATE,79
+QuTS,PRODUCT,79
+20231128,DATE,79
+HDD Health,ORG,80
+4.2.0.112,CARDINAL,80
+XAMPP,GPE,81
+8.2.4,CARDINAL,81
+the Structured Exception Handler,ORG,81
+SEH,ORG,81
+mailcow,ORG,82
+one,CARDINAL,82
+2023-12a,DATE,82
+2024-01,DATE,82
+XSS,GPE,83
+HCL BigFix Platform,PERSON,83
+Solar-Log Base,ORG,84
+Firmware,ORG,84
+6.0.1,CARDINAL,84
+161,CARDINAL,84
+Solar-Log Base,ORG,84
+XSS,GPE,84
+2.13.0,CARDINAL,85
+2.0.0,CARDINAL,85
+2.15.0,CARDINAL,85
+2.0.0,CARDINAL,85
+XSS,GPE,85
+Dash apps,LOC,85
+Cross-Site Request Forgery,ORG,86
+National Keep Cyber Security Services,ORG,86
+CyberMath,PRODUCT,86
+Cross Site Request Forgery,ORG,86
+CyberMath,NORP,86
+20240116,DATE,87
+QuTS,PRODUCT,87
+20240118,DATE,87
+20231128,DATE,88
+QTS 4.5.4.2627,ORG,88
+20231225,DATE,88
+QuTS,PRODUCT,88
+20231128,DATE,88
+QuTS,PRODUCT,88
+20231225,DATE,88
+IBM,ORG,89
+1.3,CARDINAL,89
+2.0,CARDINAL,89
+2.1,CARDINAL,89
+IBM X-Force,ORG,89
+275117,DATE,89
+XSS,GPE,90
+Photo Station,ORG,90
+2023/12/15,CARDINAL,90
+QTS 5.1.3.2578,ORG,91
+20231110,DATE,91
+QuTS,PRODUCT,91
+20231110,DATE,91
+7270,DATE,92
+Authenticated,GPE,92
+7271,DATE,92
+IBM Maximo Asset Management 7.6.1.3,ORG,93
+IBM X-Force,ORG,93
+255073,DATE,93
+OpenHarmony,ORG,94
+Improper Control of Generation of Code,ORG,95
+B&R Industrial Automation Automation Studio,ORG,95
+Automation Studio,ORG,95
+4.0,CARDINAL,95
+4.12,CARDINAL,95
+NULL,ORG,96
+20230926,DATE,96
+QuTS,PRODUCT,96
+20230927,DATE,96
+Improper Neutralization of Input During,ORG,97
+National Keep Cyber Security Services,ORG,97
+CyberMath,PRODUCT,97
+CyberMath,NORP,97
+QTS 5.1.3.2578,ORG,98
+20231110,DATE,98
+QuTS,PRODUCT,98
+20231110,DATE,98
+IBM Tivoli Application Dependency,ORG,99
+Discovery,PRODUCT,99
+7.3.0.0,CARDINAL,99
+7.3.0.10,CARDINAL,99
+JavaScript,PRODUCT,99
+IBM X-Force,ORG,99
+270271,DATE,99
+B&R Industrial Automation Automation Studio,ORG,100
+B&R Industrial Automation NET/PVI,ORG,100
+Target Programs,ORG,100
+Elevated Privileges,ORG,100
+Automation Studio,ORG,100
+4.0,CARDINAL,100
+4.6,CARDINAL,100
+4.7.0,CARDINAL,100
+4.8.0,CARDINAL,100
+4.9.0,CARDINAL,100
+NET/PVI,ORG,100
+4.0,CARDINAL,100
+4.6,CARDINAL,100
+4.7.0,CARDINAL,100
+4.8.0,CARDINAL,100
+4.9.0,CARDINAL,100
+20240116,DATE,101
+QuTS,PRODUCT,101
+20240118,DATE,101
+XSS,GPE,102
+HCL BigFix Platform,PERSON,102
+Improper Neutralization of Input During,ORG,103
+National Keep Cyber Security Services,ORG,103
+CyberMath,PRODUCT,103
+Reflected XSS.This,ORG,103
+CyberMath,NORP,103
+IBM,ORG,104
+1.3,CARDINAL,104
+2.0,CARDINAL,104
+2.1,CARDINAL,104
+IBM X-Force,ORG,104
+275113,DATE,104
+Zoho ManageEngine ADAudit,PERSON,105
+7250,DATE,105
+SQL Injection,ORG,105
+20230926,DATE,106
+QuTS,PRODUCT,106
+20230927,DATE,106
+Phar Handler,PERSON,107
+VDB-252696,PERSON,107
+SourceCodester CRUD,ORG,108
+XSS,GPE,109
+HCL BigFix Platform,PERSON,109
+the Save Report,ORG,109
+Jinja,LOC,110
+Logpoint SIEM,LOC,110
+7.x,FAC,110
+Jinja,LOC,110
+Alert,PERSON,110
+XSS,GPE,110
+SIEM,ORG,110
+IBM,ORG,111
+Container,PERSON,111
+IBM Security Verify Access Appliance,ORG,111
+10.0.0.0 through 10.0.6.1,DATE,111
+IBM Security Verify Access Docker,ORG,111
+10.0.0.0 through 10.0.6.1,DATE,111
+IBM X-Force,ORG,111
+254651,DATE,111
+IBM,ORG,112
+Container,PERSON,112
+IBM Security Verify Access Appliance,ORG,112
+10.0.0.0 through 10.0.6.1,DATE,112
+IBM Security Verify Access Docker,ORG,112
+10.0.0.0 through 10.0.6.1,DATE,112
+IBM X-Force,ORG,112
+254972,DATE,112
+IBM,ORG,113
+Container,PERSON,113
+IBM Security Verify Access Appliance,ORG,113
+10.0.0.0 through 10.0.6.1,DATE,113
+IBM Security Verify Access Docker,ORG,113
+10.0.0.0 through 10.0.6.1,DATE,113
+DSC,ORG,113
+IBM X-Force,ORG,113
+254776,DATE,113
+IBM,ORG,114
+Container,PERSON,114
+IBM Security Verify Access Appliance,ORG,114
+10.0.0.0 through 10.0.6.1,DATE,114
+IBM Security Verify Access Docker,ORG,114
+10.0.0.0 through 10.0.6.1,DATE,114
+XXE,ORG,114
+XML,ORG,114
+IBM X-Force,ORG,114
+254783,DATE,114
+IBM,ORG,115
+23.0.1,DATE,115
+23.0.2,DATE,115
+JavaScript,PRODUCT,115
+IBM X-Force,ORG,115
+275665,DATE,115
+mpedraza2020 Intranet del Monterroso,FAC,116
+4.50.0,CARDINAL,116
+4.51.0,CARDINAL,116
+678190bee1dfd64b54a2b0e88abfd009e78adce8,CARDINAL,116
+VDB-252717,PERSON,116
+IBM,ORG,117
+Hypervisor,PERSON,117
+FW1020.00,PERSON,117
+FW1020.40,ORG,117
+FW1030.00,ORG,117
+FW1030.30,GPE,117
+IBM X-Force,ORG,117
+257135,DATE,117
+Vyper,PERSON,118
+Pythonic Smart Contract Language,ORG,118
+IR,ORG,118
+IR,ORG,118
+IR,ORG,118
+Linux,GPE,119
+snd_hdac_regmap_sync,PERSON,119
+Improper Neutralization of Input During,ORG,120
+Biteship Biteship:,WORK_OF_ART,120
+Kurir Instant,PERSON,120
+Reguler,PERSON,120
+Kargo,GPE,120
+Reflected XSS.This,ORG,120
+Kurir Instant,PERSON,120
+Reguler,PERSON,120
+Kargo,GPE,120
+2.2.24,CARDINAL,120
+Bug Bounty Program,ORG,121
+AXIS,ORG,121
+Arm Ltd Bifrost GPU,ORG,122
+Arm Ltd Valhall,ORG,122
+Kernel Driver,PERSON,122
+GPU,ORG,122
+Mali,PERSON,122
+Bifrost GPU,ORG,122
+Valhall,PERSON,122
+Engrampa,PERSON,123
+Engrampa,PERSON,123
+Path Traversal,ORG,123
+Remote Command Execution,ORG,123
+RCE,ORG,123
+Engrampa Archive,ORG,123
+Archiver,FAC,123
+ISO,ORG,123
+RCE,PERSON,123
+63d5dfa,CARDINAL,123
+Linux,GPE,124
+Improper Neutralization of Input During,ORG,125
+MJS Software,ORG,125
+PT Sign Ups,ORG,125
+1.0.4,CARDINAL,125
+FAQ,ORG,126
+PHP,ORG,126
+8.1+,DATE,126
+3.2.5,CARDINAL,126
+Improper Neutralization of Input During,ORG,127
+Dan,PERSON,127
+Art Add Customer,PERSON,127
+WooCommerce,ORG,127
+Add Customer,PERSON,127
+WooCommerce,ORG,127
+1.7,CARDINAL,127
+Improper Neutralization of Input During,ORG,128
+Dan Dulaney Dan's,PERSON,128
+Google Calendar,PRODUCT,128
+Dan,PERSON,128
+1.2,CARDINAL,128
+Arm Ltd Bifrost GPU,ORG,129
+Arm Ltd Valhall,ORG,129
+Bifrost GPU,ORG,129
+r35p0,ORG,129
+Valhall,WORK_OF_ART,129
+r35p0,ORG,129
+Linux,GPE,130
+Improper Neutralization of Input During,ORG,131
+Five,CARDINAL,131
+Restaurant Reviews,PERSON,131
+Stored XSS.This,PERSON,131
+Five Star,ORG,131
+2.3.5,CARDINAL,131
+Improper Neutralization of Input During,ORG,132
+MightyThemes Mighty Addons,ORG,132
+Mighty Addons,PERSON,132
+1.9.3,CARDINAL,132
+HTTP,ORG,133
+RegEx,ORG,133
+CPU,ORG,133
+0.0.7,CARDINAL,133
+Linux,GPE,134
+conn_info_{min,GPE,134
+CPIO,ORG,135
+QiboSoft,PERSON,136
+1.0.6,CARDINAL,136
+VDB-252847,PRODUCT,136
+Gradio,GPE,137
+JSON,PERSON,137
+API,ORG,137
+"Brandon
+Rothel",PERSON,138
+QED Secure Solutions,ORG,138
+AXIS,ORG,138
+WordPress,ORG,139
+Stored Cross-Site Scripting,ORG,139
+3.1,CARDINAL,139
+Broken,PERSON,140
+Risky Cryptographic Algorithm,ORG,140
+B&R Industrial Automation Automation Runtime,ORG,140
+FTP,ORG,140
+TLSv1.0,ORG,140
+TLS1.1,PERSON,140
+14.0,CARDINAL,140
+14.93,CARDINAL,140
+XSS,GPE,141
+SVG,ORG,141
+"System
+Diagnostics",ORG,141
+JavaScript,PRODUCT,141
+Improper Neutralization of Input During,ORG,142
+Michael Dempfle Advanced iFrame,PERSON,142
+2023.10,CARDINAL,142
+Improper Neutralization of Input During,ORG,143
+Noah Kagan Scroll Triggered Box,ORG,143
+Stored XSS.This,PERSON,143
+Scroll Triggered Box:,ORG,143
+2.3,CARDINAL,143
+Linux,GPE,144
+conn,GPE,144
+Sharp NEC Displays,ORG,145
+P403,NORP,145
+P463,DATE,145
+P553,PRODUCT,145
+P703,NORP,145
+P801,DATE,145
+X554UN,DATE,145
+"X464UN, X554UNS, X464UNV",GPE,145
+X474HB,CARDINAL,145
+X464UNS,GPE,145
+X554UNV,GPE,145
+X555UNS,PERSON,145
+X555UNV,PRODUCT,145
+X754HB,PRODUCT,145
+X554HB,PRODUCT,145
+E805,GPE,145
+E905,GPE,145
+UN551S,GPE,145
+UN551VS,GPE,145
+X551UHD,GPE,145
+X651UHD,GPE,145
+X841UHD,GPE,145
+X981UHD,GPE,145
+MD551C8,ORG,145
+Fortinet,GPE,146
+7.1.0,CARDINAL,146
+7.0.2 and 6.7.0 through 6.7.8 and 6.6.0 through 6.6.3 and 6.5.0,DATE,146
+6.4.0,CARDINAL,146
+6.4.2,CARDINAL,146
+API,ORG,146
+Linux,GPE,147
+Linux,GPE,148
+Linux,GPE,149
+sniff_{min,ORG,149
+The GeneratePress Premium,ORG,150
+WordPress,ORG,150
+Stored Cross-Site Scripting,ORG,150
+2.3.2,CARDINAL,150
+Linux,GPE,151
+xc4000,LANGUAGE,151
+DNS,ORG,152
+DNS,ORG,152
+My Cloud OS 5,PRODUCT,152
+Duo,PERSON,152
+SanDisk,ORG,152
+9.5.1-104,CARDINAL,152
+Improper Neutralization of Input During,ORG,153
+CalculatorPro Calculators,ORG,153
+CalculatorPro Calculators,ORG,153
+1.1.7,CARDINAL,153
+Aria Operations for Networks,ORG,154
+XSS,GPE,155
+Nessus,ORG,155
+Nessus,PERSON,155
+PPTP,ORG,156
+20230322,DATE,156
+Rel.70591,ORG,156
+HTTP,ORG,156
+HTTP,ORG,156
+Satera LBP670C,PERSON,157
+v03.07,PERSON,157
+Japan,GPE,157
+v03.07,PERSON,157
+US,GPE,157
+v03.07,PERSON,157
+Europe,LOC,157
+Satera LBP670C,PERSON,158
+v03.07,PERSON,158
+Japan,GPE,158
+v03.07,PERSON,158
+US,GPE,158
+v03.07,PERSON,158
+Europe,LOC,158
+Tongda,ORG,159
+2017,DATE,159
+11.9,CARDINAL,159
+ASK_DUTY_ID,ORG,159
+11.10,CARDINAL,159
+VDB-252991,PERSON,159
+IBM,ORG,160
+7.0,CARDINAL,160
+7.0.5.19,CARDINAL,160
+7.1,CARDINAL,160
+7.2,CARDINAL,160
+7.2.3.8,DATE,160
+7.3,CARDINAL,160
+IBM,ORG,160
+IBM,ORG,160
+DevOps,PRODUCT,160
+8.0.0.0,DATE,160
+Windows,NORP,160
+IBM X-Force,ORG,160
+279971,DATE,160
+Jspxcms,PERSON,161
+20230322,DATE,162
+Rel.70591,ORG,162
+HTTP,ORG,162
+HTTP,ORG,162
+Aria Operations for Networks,ORG,164
+JavaScript,ORG,165
+JavaScript,ORG,166
+20230322,DATE,167
+Rel.70591,ORG,167
+HTTP,ORG,167
+HTTP,ORG,167
+11.3,CARDINAL,168
+Mobile Device Function of Office Multifunction Printers,ORG,169
+Satera LBP670C,PERSON,169
+v03.07,PERSON,169
+Japan,GPE,169
+v03.07,PERSON,169
+US,GPE,169
+v03.07,PERSON,169
+Europe,LOC,169
+Beijing,GPE,170
+Baichuo Smart,PERSON,170
+20240126,DATE,170
+Import Handler,ORG,170
+v03.07,PERSON,171
+Japan,GPE,171
+v03.07,PERSON,171
+US,GPE,171
+v03.07,PERSON,171
+Europe,LOC,171
+Juanpao,PERSON,172
+API,ORG,172
+VDB-252999,GPE,172
+XSS,GPE,173
+Allegro AI’s,ORG,173
+JavaScript,PRODUCT,173
+UI,GPE,173
+Apache Software Foundation,ORG,174
+Apache Sling Servlets Resolver,WORK_OF_ART,174
+2.11.0,CARDINAL,174
+the Sling Servlet Resolver,WORK_OF_ART,174
+2.11.0,CARDINAL,174
+get_redirect_url,ORG,175
+1.4.0 to 1.14.1,CARDINAL,176
+SDK,ORG,176
+Allegro AI’s,ORG,176
+Jspxcms,PERSON,177
+VDB-252996,CARDINAL,177
+15.4.99.140,CARDINAL,178
+SQL,ORG,179
+DB,NORP,179
+up to 1.14.1,CARDINAL,180
+Allegro AI’s,ORG,180
+API,ORG,180
+ConsultIDs,ORG,181
+Beijing,GPE,183
+20231120,DATE,183
+20230322,DATE,184
+Rel.70591,ORG,184
+HTTP,ORG,184
+HTTP,ORG,184
+20230322,DATE,185
+Rel.70591,ORG,185
+HTTP,ORG,185
+HTTP,ORG,185
+SolarWinds,ORG,186
+PPTP,ORG,187
+20230322,DATE,187
+Rel.70591,ORG,187
+HTTP,ORG,187
+HTTP,ORG,187
+CodeAstro University Management System,ORG,188
+1.0,CARDINAL,188
+Attendance Management,ORG,188
+Student Name,ORG,188
+WSD,ORG,189
+Satera LBP670C,PERSON,189
+v03.07,PERSON,189
+Japan,GPE,189
+v03.07,PERSON,189
+US,GPE,189
+v03.07,PERSON,189
+Europe,LOC,189
+Tongda,ORG,190
+2017,DATE,190
+up to,CARDINAL,190
+11.10,CARDINAL,190
+DELETE_STR,PRODUCT,190
+VDB-252990,ORG,190
+Allegro AI’s,ORG,191
+JavaScript,ORG,192
+SNMP,ORG,192
+libgit2,PERSON,193
+Git,PERSON,193
+API,ORG,193
+Git,GPE,193
+Denial of Service,ORG,193
+libgit2,PERSON,193
+1.4.0,CARDINAL,193
+1.6.5,CARDINAL,193
+1.7.2,CARDINAL,193
+Address Book,ORG,194
+Mobile Device Function of Office Multifunction Printers,ORG,194
+Satera LBP670C,PERSON,194
+v03.07,PERSON,194
+Japan,GPE,194
+v03.07,PERSON,194
+US,GPE,194
+v03.07,PERSON,194
+Europe,LOC,194
+SolarWinds,ORG,195
+IBM,ORG,196
+Hypervisor,PERSON,196
+FW1020.00,PERSON,196
+FW1020.40,ORG,196
+FW1030.00,ORG,196
+FW1030.30,GPE,196
+IBM X-Force,ORG,196
+269695,DATE,196
+4.9.4.36,CARDINAL,197
+Windows,NORP,197
+Dell Display,ORG,198
+2.1.1.17,CARDINAL,198
+0.17.0,CARDINAL,199
+1.14.2,CARDINAL,199
+SDK,ORG,199
+Allegro AI’s,ORG,199
+Juanpao,PERSON,200
+CPCA Color LUT Resource Download,ORG,201
+Satera LBP670C,PERSON,201
+v03.07,PERSON,201
+Japan,GPE,201
+v03.07,PERSON,201
+US,GPE,201
+v03.07,PERSON,201
+Europe,LOC,201
+20230322,DATE,202
+Rel.70591,ORG,202
+HTTP,ORG,202
+HTTP,ORG,202
+Juanpao,PERSON,203
+API,ORG,203
+Juanpao,PERSON,204
+API,ORG,204
+VDB-253001,GPE,204
+Juanpao,PERSON,205
+1.5.02,CARDINAL,205
+API,ORG,205
+GRE,ORG,206
+20230322,DATE,206
+Rel.70591,ORG,206
+HTTP,ORG,206
+HTTP,ORG,206
+Westermo Lynx,ORG,207
+the Westermo Lynx,ORG,208
+JavaScript,ORG,208
+"The Timeline Widget For Elementor (Elementor Timeline, Vertical & Horizontal Timeline",ORG,209
+WordPress,ORG,209
+Stored Cross-Site Scripting,ORG,209
+1.5.3,CARDINAL,209
+SQL,ORG,210
+Novel-Plus v4.3.0-RC1,ORG,210
+SQL,ORG,210
+Cross Site Scripting,ORG,211
+XSS,GPE,211
+Axigen,ORG,211
+10.4.0,CARDINAL,211
+10.4.19,CARDINAL,211
+10.5.5,CARDINAL,211
+Standard,ORG,211
+14.59.0,DATE,212
+15.5.0,CARDINAL,212
+Cross-Site Scripting,ORG,212
+XSS,GPE,212
+JS,NORP,212
+versions 14.59.0,DATE,212
+HID,ORG,213
+HTML,ORG,214
+4.24.0,CARDINAL,214
+CDATA,ORG,214
+Advanced Content Filtering,GPE,214
+JavaScript,PRODUCT,214
+CDATA,ORG,214
+4.24.0,CARDINAL,214
+XSS,GPE,215
+2.7.0,CARDINAL,216
+LFR,ORG,216
+4.24.0,CARDINAL,217
+JavaScript,PRODUCT,217
+the CKEditor 4,ORG,217
+4.24.0,CARDINAL,217
+XSS,GPE,218
+Search Result,ORG,218
+Liferay Portal,ORG,218
+7.4.3.11,CARDINAL,218
+Liferay DXP,PERSON,218
+7.4,CARDINAL,218
+8,CARDINAL,218
+7.3,CARDINAL,218
+4,CARDINAL,218
+7.2,CARDINAL,218
+17,CARDINAL,218
+Search Result,ORG,218
+SQL Injection,PERSON,219
+RM,GPE,219
+PrestaShop versions 2.7.9,LAW,219
+ics_export.php,ORG,219
+Path Traversal,PERSON,220
+Linea,GPE,220
+PrestaShop,LAW,220
+1.6.6,CARDINAL,220
+WordPress,ORG,221
+SQL Injection,ORG,221
+1.3.10,GPE,221
+SQL,ORG,221
+SQL,ORG,221
+Graylog,PERSON,222
+4.3.0,CARDINAL,222
+5.1.11,CARDINAL,222
+Graylog,PERSON,222
+5.1.11,CARDINAL,222
+5.2.4,DATE,222
+6.0,CARDINAL,222
+Graylog,PERSON,222
+SQL Injection,PERSON,223
+"HiPresta ""Gift Wrapping Pro",PERSON,223
+PrestaShop,LAW,223
+1.4.1,CARDINAL,223
+WiX,ORG,224
+Windows Installer,ORG,224
+Windows,NORP,224
+DLL,ORG,224
+WiX,ORG,224
+4.0.4,CARDINAL,224
+IBM,ORG,225
+Controller,ORG,225
+IBM Storwize,ORG,225
+IBM FlashSystem,ORG,225
+IBM Storage Virtualize,ORG,225
+8.6,CARDINAL,225
+Storwize,ORG,225
+IBM X-Force,ORG,225
+271016,DATE,225
+Improper Authentication,ORG,226
+Apache Ozone,LOC,226
+metadata,PERSON,226
+the Ozone Storage Container,ORG,226
+Apache,PRODUCT,226
+1.2.0,CARDINAL,226
+1.3.0,CARDINAL,226
+1.4.0,CARDINAL,226
+IBM Security Verify Access,ORG,229
+10.0.0.0,DATE,229
+IBM X-Force,ORG,229
+254977,DATE,229
+Atmail v6.6.0,ORG,230
+SQL,ORG,230
+Jsish,NORP,231
+Espruino 2v20,PERSON,232
+jsparse.c,GPE,232
+Cisco Expressway Series,LOC,233
+Cisco TelePresence Video Communication Server,ORG,233
+VCS,ORG,233
+Cisco Expressway Series,WORK_OF_ART,233
+Cisco Expressway Control,ORG,233
+Cisco Expressway Edge,ORG,233
+Starbox,ORG,234
+WordPress,ORG,234
+Stored Cross-Site Scripting,ORG,234
+Social Settings,ORG,234
+Suite CRM,ORG,235
+7.14.2,CARDINAL,235
+HTTP,ORG,235
+SSRF,ORG,235
+RSS,ORG,236
+WordPress,ORG,236
+4.23.5,CARDINAL,236
+RSS,ORG,236
+Cisco TelePresence Video Communication Server,ORG,237
+Cisco Expressway Series,LOC,238
+Cisco TelePresence Video Communication Server,ORG,238
+VCS,ORG,238
+Cisco Expressway Series,WORK_OF_ART,238
+Cisco Expressway Control,ORG,238
+Cisco Expressway Edge,ORG,238
+CodeAstro Restaurant POS System,ORG,239
+1.0,CARDINAL,239
+Cross-Site Request Forgery,ORG,240
+Forum One,ORG,240
+1.7.8,CARDINAL,240
+APM Server,ORG,241
+Elasticsearch,ORG,241
+APM Server,ORG,241
+APM Server,ORG,241
+CodeAstro Restaurant POS System,ORG,242
+1.0,CARDINAL,242
+VDB-253010,PERSON,242
+Espruino 2v20,PERSON,244
+uv_getaddrinfo,ORG,245
+256,CARDINAL,245
+0x00007f000001,PRODUCT,245
+IP,ORG,245
+256,CARDINAL,245
+uv_getaddrinfo,ORG,245
+256,CARDINAL,245
+MySpace,ORG,245
+1.48.0,CARDINAL,245
+IBM Security Verify Access,ORG,246
+10.0.0.0 through 10.0.6.1,DATE,246
+IBM X-Force,ORG,246
+266155,DATE,246
+CodeAstro University Management System,ORG,247
+1.0,CARDINAL,247
+Address,ORG,247
+2.2,CARDINAL,248
+SQL,ORG,248
+2.2,CARDINAL,248
+Vyper,PERSON,249
+Pythonic Smart Contract Language,ORG,249
+0.3.10,PRODUCT,249
+2,CARDINAL,249
+Negative,ORG,249
+three,CARDINAL,249
+2,CARDINAL,249
+3,CARDINAL,249
+revert,PERSON,249
+Firewall,PERSON,250
+WordPress,ORG,250
+Reflected Cross-Site Scripting,ORG,250
+5.2.5,CARDINAL,250
+SourceCodester Product Management System,ORG,251
+1.0,CARDINAL,251
+VDB-253012,GPE,251
+ClamAV,ORG,252
+ClamAV,ORG,252
+ClamAV,ORG,252
+ClamAV,ORG,252
+The PowerPack Addons for Elementor (Free Widgets,ORG,253
+Extensions,PERSON,253
+Templates,ORG,253
+WordPress,ORG,253
+Stored Cross-Site Scripting,ORG,253
+2.7.14,CARDINAL,253
+Business Control Center,ORG,254
+XSS,GPE,254
+Usr,PERSON,254
+Improper Neutralization of Input During,ORG,255
+Themes Blocksy,PERSON,255
+Blocksy,PERSON,255
+Linux,GPE,256
+Memory Management,ORG,256
+two,CARDINAL,256
+WordPress,ORG,257
+9.9,CARDINAL,257
+SQL,ORG,257
+SQL,ORG,257
+SQL Injection,PERSON,258
+Atos Unify OpenScape Voice Trace,ORG,259
+V8,CARDINAL,259
+V8 R0.9.11,PRODUCT,259
+HTTP,ORG,260
+Apache,GPE,260
+0.9.5~1.7.0,CARDINAL,260
+"Vulnerability Cause Description：
+
+The",ORG,260
+1.1,CARDINAL,260
+One,CARDINAL,260
+one,CARDINAL,260
+TE,ORG,260
+TE,ORG,260
+one,CARDINAL,260
+1,CARDINAL,260
+1.8.0,CARDINAL,260
+2,CARDINAL,260
+https://github.com/apache/brpc/pull/2518,PERSON,260
+SQL Injection,PERSON,261
+Employee Management System,ORG,261
+SQL,ORG,261
+Software Publico,GPE,262
+SQL,ORG,263
+Novel-Plus v4.3.0-RC1,ORG,263
+SQL,ORG,263
+SQL Injection,ORG,264
+com.jsh.erp.controller,ORG,264
+jshERP,ORG,264
+jshERP,ORG,264
+WebAdmin,ORG,265
+Axigen 10.3.x,LOC,265
+10.4.x,DATE,265
+10.4.24,DATE,265
+10.5.10,CARDINAL,265
+XSS,GPE,265
+SSL,ORG,265
+ZenTao Community Edition,ORG,266
+ZenTao Biz v8.10,PERSON,266
+ZenTao Max v4.10,PERSON,266
+Supabase PostgreSQL v15.1,ORG,267
+SQL,ORG,267
+Supabase,ORG,267
+Supabase,ORDINAL,267
+SQL,ORG,267
+UI,GPE,267
+Novel-Plus v4.3.0-RC1,ORG,268
+com.java2nb.system.controller,PERSON,268
+Cross Site Scripting,ORG,269
+Axigen WebMail,ORG,269
+10.3.3.61,CARDINAL,269
+Novel-Plus v4.3.0-RC1,ORG,270
+FileController,ORG,270
+1.1.9,CARDINAL,271
+Node.js,ORG,271
+SSRF,ORG,271
+IP,ORG,271
+0x7f.1,ORG,271
+Improper Verification of Cryptographic Signature,ORG,272
+Snow Software Inventory,ORG,272
+Snow Software Inventory,ORG,272
+"Windows, Snow Software Inventory",ORG,272
+Linux,GPE,272
+Snow Update Packages,ORG,272
+Inventory,ORG,272
+6.12.0,CARDINAL,272
+Inventory,ORG,272
+6.14.5,CARDINAL,272
+Inventory,ORG,272
+6.7.2,CARDINAL,272
+SQL,ORG,273
+Novel-Plus v4.3.0-RC1,ORG,273
+SQL,ORG,273
+Templates,ORG,274
+WordPress,ORG,274
+Cross-Site Request Forgery,ORG,274
+1.3.87,DATE,274
+Dlink DIR-816A2,PERSON,275
+sub_42DA54,GPE,275
+SQL,ORG,276
+Novel-Plus v4.3.0-RC1,ORG,276
+SQL,ORG,276
+Improper Verification of Cryptographic Signature,ORG,277
+Snow Software Inventory,ORG,277
+Snow Update Packages,ORG,277
+Inventory,ORG,277
+7.3.1,CARDINAL,277
+SQL,ORG,278
+Novel-Plus v4.3.0-RC1,ORG,278
+SQL,ORG,278
+The Payment Forms for Paystack,WORK_OF_ART,279
+WordPress,ORG,279
+Stored Cross-Site Scripting,ORG,279
+3.4.1,CARDINAL,279
+Atos Unify OpenScape Xpressions WebAssistant V7,ORG,280
+Pichome,GPE,281
+POST,ORG,281
+Unrestricted File Upload,ORG,282
+Employee Management System,ORG,282
+1.0,CARDINAL,282
+Improper Neutralization of Input During,ORG,284
+PT Woo Plugins,GPE,284
+Portugal,GPE,284
+WooCommerce,ORG,284
+Portugal,GPE,284
+WooCommerce,ORG,284
+2.1,CARDINAL,284
+The Binance Trust Wallet,ORG,285
+3cd6e8f647fbba8b5d8844fcd144365a086b629f,CARDINAL,285
+0.0.4,CARDINAL,285
+July 2023,DATE,285
+Improper Neutralization of Input During,ORG,286
+Acowebs Product Labels,PERSON,286
+Badges,PERSON,286
+Product Labels For Woocommerce,PRODUCT,286
+Badges,PERSON,286
+7.1.1-7040,DATE,287
+Multiple Cross-Site Request Forgery,ORG,288
+NCR Terminal Handler v.1.5.1,ORG,288
+Daily Habit Tracker v.1.0,ORG,289
+RCE,ORG,290
+Paessler PRTG Network Monitor Cross-Site Scripting Authentication Bypass Vulnerability,ORG,291
+Paessler PRTG Network Monitor,ORG,291
+Improper Neutralization of Input During,ORG,292
+Audrasjb GDPR Data,ORG,292
+GDPR Data,ORG,292
+1.6,CARDINAL,292
+XSS,GPE,293
+Edit Page,LOC,293
+Cotonti CMS v0.9.24,ORG,293
+Improper Neutralization of Input During,ORG,294
+WooCommerce,ORG,294
+Pluginus,ORG,294
+BEAR – Bulk Editor,ORG,294
+WooCommerce,ORG,294
+Pluginus,ORG,294
+1.1.4,CARDINAL,294
+Atos Unify OpenScape Voice Trace,ORG,295
+V8,CARDINAL,295
+V8 R0.9.11,PRODUCT,295
+Atos Unify OpenScape Voice Trace,ORG,296
+V8,CARDINAL,296
+V8 R0.9.11,PRODUCT,296
+Stored Cross-Site Scripting,ORG,296
+XSS,GPE,296
+Access Request,PRODUCT,296
+Improper Neutralization of Input During,ORG,297
+Magic Hills Pty Ltd Wonder Slider Lite,ORG,297
+Wonder Slider Lite:,ORG,297
+13.9,CARDINAL,297
+WikiDiscover,ORG,298
+CreateWiki,ORG,298
+months and days,DATE,298
+XSS,GPE,298
+267e763a0,CARDINAL,298
+1.3.8,CARDINAL,299
+SQL Injection,PERSON,300
+Employee Management System,ORG,300
+SQL,ORG,300
+edit_profile.php,PERSON,300
+PassPortal,ORG,301
+3.29.2,CARDINAL,301
+Chrome,PRODUCT,301
+Dell EMC AppSync,ORG,302
+4.2.0.0,CARDINAL,302
+4.6.0.0,PRODUCT,302
+Service Pack,PERSON,302
+AppSync,ORG,302
+Cross Site Scripting,ORG,303
+October,DATE,303
+CMS,ORG,303
+SQL,ORG,304
+Novel-Plus v4.3.0-RC1,ORG,304
+SQL,ORG,304
+Novel-Plus v4.3.0-RC1,ORG,305
+FileController,ORG,305
+Atos Unify OpenScape Xpressions WebAssistant V7,ORG,306
+Hotel Managment System,ORG,307
+1.0,CARDINAL,307
+SQL Injection,ORG,307
+Hotel,ORG,307
+Graph,ORG,308
+Items,NORP,308
+KiTTY,GPE,309
+2369-2390,DATE,309
+640,CARDINAL,310
+Simple School Managment System,ORG,311
+1.0,CARDINAL,311
+SQL Injection,ORG,311
+Improper Control of Dynamically-Managed Code Resources,ORG,313
+Unrestricted Upload of File,ORG,313
+Apache Solr,PERSON,313
+Apache Solr,PERSON,313
+6.0.0,CARDINAL,313
+8.11.2,CARDINAL,313
+9.0.0,CARDINAL,313
+Solr ConfigSets,PERSON,313
+Java jar,PERSON,313
+the ConfigSets API,LOC,313
+Solr Collections,FAC,313
+Solr,ORG,313
+ClassPath/ClassLoaders,ORG,313
+ConfigSet,ORG,313
+Solr,PERSON,313
+Backup,PERSON,313
+8.11.3,CARDINAL,313
+Java ClassLoader,PERSON,313
+The Backup API,ORG,313
+ClassLoader,PRODUCT,313
+IBM,ORG,315
+Access Client Solutions,ORG,315
+ACS,ORG,315
+1.1.2,CARDINAL,315
+1.1.4,CARDINAL,315
+1.1.4.3,CARDINAL,315
+LAN,ORG,315
+NTLM,ORG,315
+UNC,ORG,315
+ACS,ORG,315
+NTLM,ORG,315
+Windows,ORG,315
+NTLM,ORG,315
+IBM X-Force,ORG,315
+279091,DATE,315
+Simple School Managment System,ORG,316
+1.0,CARDINAL,316
+SQL Injection,ORG,316
+School/teacher_login.php,ORG,316
+IBM Sterling,ORG,317
+6.0.3.8,CARDINAL,317
+IBM X-Force,ORG,317
+255827,DATE,317
+IBM Engineering Lifecycle Optimization - Publishing,ORG,318
+IBM X-Force,ORG,318
+268749,DATE,318
+imlib2,PRODUCT,319
+Hotel Managment System,ORG,320
+1.0,CARDINAL,320
+SQL Injection,ORG,320
+Hotel,ORG,320
+1,CARDINAL,321
+2,CARDINAL,321
+3,CARDINAL,321
+1.29.1,CARDINAL,321
+1.28.1,CARDINAL,321
+1.27.3,CARDINAL,321
+1.26.7,CARDINAL,321
+Improper Neutralization of Special Elements,ORG,322
+an SQL Command,ORG,322
+Oduyo Financial Technology Online Collection,ORG,322
+SQL Injection,ORG,322
+Online Collection,ORG,322
+Emerson Rosemount GC370XA,ORG,324
+GC700XA,DATE,324
+Hotel Managment System,ORG,325
+1.0,CARDINAL,325
+SQL Injection,ORG,325
+Hotel,ORG,325
+icingaweb2,ORG,326
+Icinga,ORG,326
+2,CARDINAL,326
+1,CARDINAL,326
+0.22.0,CARDINAL,326
+KiTTY,GPE,327
+2600,CARDINAL,327
+ManageWiki,PRODUCT,328
+MediaWiki,ORG,328
+ManageWiki,ORG,328
+886cc6b94,CARDINAL,328
+2ef0f50880,CARDINAL,328
+6942e8b2c,CARDINAL,328
+SQL,ORG,329
+InnovaDeluxe,GPE,329
+PrestaShop,LAW,329
+2.0.4,CARDINAL,329
+Cinema Seat Reservation System,ORG,330
+1.0,CARDINAL,330
+SQL Injection,ORG,330
+Emerson Rosemount GC370XA,ORG,331
+GC700XA,DATE,331
+MISP,GPE,332
+2.4.184,CARDINAL,332
+640,CARDINAL,333
+NULL,ORG,333
+AP4_StszAtom::GetSampleSize,ORG,333
+Icinga,ORG,335
+Icinga,ORG,335
+2,CARDINAL,335
+Icinga,ORG,335
+Icinga,ORG,335
+1.x,CARDINAL,335
+XSS,GPE,335
+Icinga,GPE,335
+2.9,CARDINAL,335
+2.10,CARDINAL,335
+2.11,CARDINAL,335
+Icinga,ORG,335
+1.8,CARDINAL,335
+1.9,DATE,335
+1.10,CARDINAL,335
+1.11,CARDINAL,335
+SQL Injection,PERSON,336
+Boostmyshop,GPE,336
+Prestashop versions,LAW,336
+Simple School Managment System,ORG,337
+1.0,CARDINAL,337
+SQL Injection,ORG,337
+School/delete.php?id=5,ORG,337
+Fortinet,GPE,338
+7.4.0,CARDINAL,338
+7.4.2,CARDINAL,338
+7.0.13,ORG,338
+6.4.0,CARDINAL,338
+6.2.0,CARDINAL,338
+6.0.0,CARDINAL,338
+6.0.17,CARDINAL,338
+FortiProxy,ORG,338
+7.4.0,CARDINAL,338
+7.4.2,CARDINAL,338
+7.2.8,CARDINAL,338
+2.0.0,CARDINAL,338
+1.2.0,CARDINAL,338
+1.1.0,CARDINAL,338
+1.1.6,CARDINAL,338
+1.0.0,CARDINAL,338
+Sentry,ORG,339
+One,CARDINAL,339
+Sentry,ORG,339
+24.1.1,CARDINAL,339
+SSRF,ORG,339
+Sentry,ORG,339
+POST,ORG,339
+IP,ORG,339
+1,CARDINAL,339
+2,CARDINAL,339
+Sentry,ORG,339
+24.1.2,CARDINAL,339
+February 8,DATE,339
+Simple School Managment System,ORG,341
+1.0,CARDINAL,341
+SQL Injection,ORG,341
+School/sub_delete.php?id=5,ORG,341
+SQL,ORG,342
+Presta Monster,GPE,342
+hsmultiaccessoriespro,ORG,342
+PrestaShop versions,LAW,342
+CMS,ORG,343
+9,CARDINAL,343
+XSS,GPE,343
+the Image URL Import Feature,ORG,343
+2,CARDINAL,343
+CVSS,ORG,343
+AV,ORG,343
+N/AC,ORG,343
+9,CARDINAL,343
+PHPEMS,ORG,344
+1.0,CARDINAL,344
+CPU,ORG,345
+1.29.1,CARDINAL,345
+1.28.1,CARDINAL,345
+1.27.3,CARDINAL,345
+1.26.7,CARDINAL,345
+XSS,GPE,346
+Grav,FAC,346
+Envoy,ORG,347
+LOCAL,ORG,347
+1.29.1,CARDINAL,347
+1.28.1,CARDINAL,347
+1.27.3,CARDINAL,347
+1.26.7,CARDINAL,347
+Simple School Managment System,ORG,348
+1.0,CARDINAL,348
+SQL Injection,ORG,348
+The IBM Integration Bus,ORG,349
+IBM X-Force,ORG,349
+279972,DATE,349
+WordPress,ORG,350
+WordPress,ORG,350
+Stored Cross-Site Scripting,ORG,350
+2.23.4,CARDINAL,350
+Sametime Proxy,PERSON,351
+Jira Plugin,PERSON,352
+Jira,PERSON,352
+Simple School Managment System,ORG,353
+1.0,CARDINAL,353
+SQL Injection,ORG,353
+School/teacher_login.php,ORG,353
+Simple School Managment System,ORG,354
+1.0,CARDINAL,354
+School/teacher_login.php,ORG,354
+Simple School Managment System,ORG,355
+1.0,CARDINAL,355
+Emerson Rosemount GC370XA,ORG,356
+GC700XA,DATE,356
+KiTTY,GPE,357
+640,CARDINAL,358
+NULL,ORG,358
+Hotel Managment System,ORG,359
+1.0,CARDINAL,359
+SQL Injection,ORG,359
+Hotel,ORG,359
+Sourcecodester Event Student Attendance System,ORG,360
+1.0,CARDINAL,360
+SQL Injection,ORG,360
+640,CARDINAL,361
+CMS,ORG,362
+9,CARDINAL,362
+XSS,GPE,362
+2,CARDINAL,362
+CVSS,ORG,362
+AV,ORG,362
+N/AC,ORG,362
+9,CARDINAL,362
+Cross Site Scripting,ORG,364
+XSS,GPE,364
+EasyEmail,ORG,364
+CMS,ORG,365
+9,CARDINAL,365
+XSS,GPE,365
+Edit Attributes,LOC,365
+2.4,CARDINAL,365
+CVSS,ORG,365
+AV,ORG,365
+N/AC,ORG,365
+"N. 
+",PERSON,365
+Improper Neutralization of Input During,ORG,366
+GiveWP GiveWP,GPE,366
+GiveWP – Donation Plugin,ORG,366
+Improper Neutralization of Input During,ORG,367
+WooCommerce,ORG,367
+WooCommerce,ORG,367
+Active Products Tables for WooCommerce,ORG,367
+WooCommerce,ORG,367
+1.0.6,CARDINAL,367
+Improper Neutralization of Input During,ORG,368
+MW,ORG,368
+MW WP Form,ORG,368
+5.0.6,CARDINAL,368
+Improper Neutralization of Input During,ORG,369
+WP Auto Listings Auto Listings,ORG,369
+WordPress,PRODUCT,369
+Auto Listings,ORG,369
+WordPress,ORG,369
+2.6.5,CARDINAL,369
+Improper Neutralization of Input During,ORG,370
+"Automattic, Inc.",ORG,370
+Surveys &,ORG,370
+Reflected XSS.This,ORG,370
+Improper Neutralization of Input During,ORG,371
+If So Plugin If-So Dynamic Content Personalization,WORK_OF_ART,371
+1.6.3.1,CARDINAL,371
+Improper Neutralization of Input During,ORG,372
+ClickToTweet,FAC,372
+Com Click To Tweet,PERSON,372
+Click To Tweet,PERSON,372
+Improper Neutralization of Input During,ORG,373
+Calculators World CC BMI,ORG,373
+CC BMI,ORG,373
+2.0.1,CARDINAL,373
+Improper Neutralization of Input During,ORG,374
+Premium Addons for Elementor,ORG,374
+The Awesome Support – WordPress HelpDesk & Support Plugin,ORG,375
+WordPress,ORG,375
+SQL Injection,ORG,375
+SQL,ORG,375
+SQL,ORG,375
+Improper Neutralization of Input During,ORG,376
+Howard Ehrenberg Custom Post Carousels,PERSON,376
+Custom Post Carousels,ORG,376
+1.4.6,CARDINAL,376
+Improper Neutralization of Input During,ORG,377
+Start Booking Scheduling Plugin – Online Booking for WordPress,ORG,377
+Scheduling Plugin – Online Booking for WordPress,ORG,377
+IBM Semeru Runtime 8.0.302.0 through 8.0.392.0,ORG,378
+17.0.1.0,CARDINAL,378
+21.0.1.0,CARDINAL,378
+IBM X-Force,ORG,378
+281222,DATE,378
+Improper Neutralization of Input During,ORG,379
+WordPress,ORG,379
+My Agile Privacy,ORG,379
+WordPress,ORG,379
+2.1.7,CARDINAL,379
+Improper Neutralization of Input During,ORG,380
+Vipps,PERSON,380
+MobilePay,ORG,380
+WooCommerce,ORG,380
+Vipps,PERSON,380
+MobilePay,ORG,380
+WooCommerce,ORG,380
+1.14.13,CARDINAL,380
+Improper Neutralization of Input During,ORG,381
+Team Heateor Heateor Social Login WordPress,ORG,381
+Heateor Social Login WordPress,ORG,381
+1.1.30,DATE,381
+Improper Neutralization of Input During,ORG,382
+WPoperation Ultra Companion,EVENT,382
+WPoperation Themes,WORK_OF_ART,382
+Ultra Companion,EVENT,382
+1.1.9,CARDINAL,382
+Improper Neutralization of Input During,ORG,383
+Mark Kinchin Beds24 Online Booking,PERSON,383
+Beds24 Online Booking,ORG,383
+2.0.23,CARDINAL,383
+Improper Neutralization of Input During,ORG,384
+LogicHunt,ORG,384
+OWL Carousel,ORG,384
+1.4.0,CARDINAL,384
+IBM,ORG,385
+2.0,CARDINAL,385
+IBM X-Force,ORG,385
+278749,DATE,385
+Dell BSAFE SSL-J,ORG,386
+6.5,CARDINAL,386
+7.0,CARDINAL,386
+7.1,CARDINAL,386
+CMS,ORG,387
+v2.33,PRODUCT,387
+Cross-Site Request Forgery,ORG,387
+CMS,ORG,388
+v2.33,PRODUCT,388
+Cross-Site Request Forgery,ORG,388
+CMS,ORG,389
+v2.33,PRODUCT,389
+Cross-Site Request Forgery,ORG,389
+VDB-253391,GPE,390
+2.x,CARDINAL,391
+2.7.6,CARDINAL,391
+KDE,GPE,392
+Plasma Workspace,PERSON,392
+5.93.0,CARDINAL,392
+Theme File Handler,ORG,392
+6cdf42916369ebf4ad5bd876c4dfa0170d7b2f01,CARDINAL,392
+third,ORDINAL,392
+5.76.0,CARDINAL,393
+XSS,GPE,393
+SVG,ORG,393
+JavaScript,PERSON,393
+API,ORG,393
+TCP,ORG,393
+3001,DATE,393
+Gambio,PERSON,394
+Improper Neutralization of Input During,ORG,395
+Nicdark Restaurant Reservations,ORG,395
+Restaurant Reservations,ORG,395
+1.8,CARDINAL,395
+Dell Unity,ORG,396
+5.4,CARDINAL,396
+Dell Unity,ORG,397
+5.4,CARDINAL,397
+Dell Unity,ORG,398
+5.4,CARDINAL,398
+Dell Unity,ORG,399
+5.4,CARDINAL,399
+XSS,GPE,399
+Dell Unity,ORG,400
+5.4,CARDINAL,400
+Dell Unity,ORG,401
+5.4,CARDINAL,401
+Improper Neutralization of Input During,ORG,402
+Automattic,NORP,402
+"Quizzes, & Learning",ORG,402
+Sensei LMS – Online Courses,PERSON,402
+"Quizzes, & Learning",ORG,402
+4.17.0,CARDINAL,402
+Improper Neutralization of Input During,ORG,403
+Geek Code Lab,EVENT,403
+All 404 Pages Redirect to Homepage,ORG,403
+1.9,CARDINAL,403
+Kalli Dan,PERSON,404
+KD Coming Soon,PERSON,404
+KD Coming Soon,WORK_OF_ART,404
+1.7,CARDINAL,404
+Improper Neutralization of Input During,ORG,405
+Arunas Liuiza Content Cards,ORG,405
+OpenRefine,ORG,406
+JDBC,GPE,406
+OpenRefine,ORG,406
+3.7.8,CARDINAL,406
+Improper Neutralization of Input During,ORG,407
+Before After Image Slider,WORK_OF_ART,407
+Before After Image Slider,ORG,407
+2.2,CARDINAL,407
+Improper Neutralization of Input During,ORG,408
+Widget,PERSON,408
+Buttons Shortcode and Widget,ORG,408
+1.16,CARDINAL,408
+Cross-Site Request Forgery,ORG,409
+Ryan Duff,PERSON,409
+Peter Westwood,PERSON,409
+WP Contact Form:,ORG,409
+1.6,CARDINAL,409
+IBM,ORG,410
+TX Standard,PERSON,410
+Advanced,PERSON,410
+11.1,CARDINAL,410
+IBM X-Force,ORG,410
+229441,DATE,410
+Improper Neutralization of Input During,ORG,411
+Djo VK,ORG,411
+Reflected XSS.This,ORG,411
+2.0.3,CARDINAL,411
+MagePeople Team Event,ORG,412
+Tickets Selling Plugin,ORG,412
+WooCommerce,ORG,412
+Tickets Selling Plugin,ORG,412
+WooCommerce,ORG,412
+Dell Unity,ORG,413
+5.4,CARDINAL,413
+Dell Unity,ORG,414
+5.4,CARDINAL,414
+Cross,ORG,414
+CVE-2024-1049,ORG,415
+CVE-2024-1049,ORG,415
+Improper Neutralization of Input During,ORG,416
+UnitedThemes Brooklyn,ORG,416
+Creative Multi-Purpose Responsive,PERSON,416
+Brooklyn,GPE,416
+Creative Multi-Purpose Responsive,PERSON,416
+4.9.7.6,CARDINAL,416
+WordPress,ORG,417
+2023.2,CARDINAL,417
+Stored Cross-Site Scripting,ORG,417
+Dell Unity,ORG,418
+5.4,CARDINAL,418
+C++,CARDINAL,419
+v0.28.0,LANGUAGE,419
+Improper Neutralization of Input During,ORG,421
+Chart Builder Team Chartify,ORG,421
+WordPress Chart Plugin,ORG,421
+Stored XSS.This,PERSON,421
+Chartify,ORG,421
+2.0.6,CARDINAL,421
+WP Swings Coupon Referral Program,ORG,422
+Coupon Referral Program,ORG,422
+1.7.2,CARDINAL,422
+Cross-Site Request Forgery,ORG,423
+Yannick Lefebvre Link Library,PERSON,423
+Link Library,PERSON,423
+7.5.13,CARDINAL,423
+Unrestricted File Upload,ORG,424
+Content,ORG,424
+Gambio,PERSON,424
+PHP,ORG,424
+Moodle LMS,ORG,425
+IBM Robotic Process Automation,ORG,426
+IBM X-Force,ORG,426
+227293,DATE,426
+Dell Unity,ORG,427
+5.4,CARDINAL,427
+Improper Neutralization of Input During,ORG,428
+Honeypot,ORG,428
+2.2.3,CARDINAL,428
+Dell Unity,ORG,429
+5.4,CARDINAL,429
+PropertyHive,ORG,430
+PropertyHive,ORG,430
+2.0.5,CARDINAL,430
+Cross-Site Request Forgery,ORG,431
+Contest Gallery Photos,LOC,431
+Files Contest Gallery,PERSON,431
+Social Share,ORG,431
+WordPress,ORG,431
+Photos,ORG,431
+Files Contest Gallery,PERSON,431
+Social Share,ORG,431
+WordPress,ORG,431
+21.2.8.4,CARDINAL,431
+Dell Unity,ORG,432
+5.4,CARDINAL,432
+OS Command Injection Vulnerability,ORG,432
+WooCommerce Builder & Gutenberg WooCommerce Blocks,ORG,433
+WooCommerce Builder & Gutenberg WooCommerce Blocks,ORG,433
+3.1.4,CARDINAL,433
+Dell Unity,ORG,434
+5.4,CARDINAL,434
+Gambio,GPE,435
+4.9.2.0,CARDINAL,435
+Gambio,PERSON,436
+Dell Unity,ORG,437
+5.4,CARDINAL,437
+Cross-Site Request Forgery,ORG,438
+Log Viewer,PERSON,438
+Basic Log Viewer,ORG,438
+1.0.4,CARDINAL,438
+Dell Unity,ORG,439
+5.4,CARDINAL,439
+SQL Injection,PERSON,439
+WordPress,ORG,440
+2023.2,CARDINAL,440
+Stored Cross-Site Scripting,ORG,440
+ERE,ORG,441
+1.3,CARDINAL,441
+SQL Injection,PERSON,442
+Gambio,GPE,442
+4.9.2.0,CARDINAL,442
+SQL,ORG,442
+Dell Unity,ORG,443
+5.4,CARDINAL,443
+UnitedThemes Brooklyn,ORG,444
+Creative Multi-Purpose Responsive,PERSON,444
+Brooklyn,GPE,444
+Creative Multi-Purpose Responsive,PERSON,444
+4.9.7.6,CARDINAL,444
+IBM,ORG,445
+TX Standard,PERSON,445
+Advanced,PERSON,445
+11.1,CARDINAL,445
+IBM X-Force,ORG,445
+229440,DATE,445
+Application Basis,ORG,446
+700,CARDINAL,446
+701,CARDINAL,446
+702,CARDINAL,446
+731,CARDINAL,446
+740,CARDINAL,446
+750,CARDINAL,446
+751,CARDINAL,446
+752,CARDINAL,446
+75C,CARDINAL,446
+Parasolid,LANGUAGE,447
+Parasolid V35.1,PERSON,447
+XT,ORG,447
+GitHub Enterprise Server,ORG,448
+SSH,ORG,448
+the Management Console,ORG,448
+GitHub Enterprise Server,ORG,448
+3.12,CARDINAL,448
+3.11.5,CARDINAL,448
+3.10.7,DATE,448
+3.9.10,DATE,448
+Uncontrolled Resource Consumption,ORG,449
+GitHub,ORG,449
+SAP,GPE,450
+Cloud Connector,PERSON,450
+2.0,CARDINAL,450
+Simcenter,PERSON,451
+Catia,ORG,451
+Parasolid,LANGUAGE,452
+Parasolid V35.1,PERSON,452
+Parasolid V36.0,PERSON,452
+Solid Edge,PERSON,452
+Antivirus v8.17,PERSON,453
+GitHub Enterprise Server,ORG,454
+SSH,ORG,454
+the Management Console,ORG,454
+GitHub Enterprise Server,ORG,454
+3.12,CARDINAL,454
+3.11.5,CARDINAL,454
+3.10.7,DATE,454
+3.9.10,DATE,454
+GitHub Bug Bounty,PRODUCT,454
+Dell PowerProtect Data,ORG,455
+19.15,CARDINAL,455
+Vba32 Antivirus,PERSON,456
+Arbitrary Memory Read,WORK_OF_ART,456
+TYPO3,ORG,457
+PHP,ORG,457
+GPL,PERSON,457
+the TYPO3 Install Tool,ORG,457
+HTTP,ORG,457
+TYPO3,ORG,457
+8.7.57 ELTS,ORG,457
+ELTS,ORG,457
+10.4.43,CARDINAL,457
+12.4.11,CARDINAL,457
+GitHub Enterprise Server,ORG,458
+SSH,ORG,458
+the Management Console,ORG,458
+GitHub Enterprise Server,ORG,458
+3.12,CARDINAL,458
+3.11.5,CARDINAL,458
+3.10.7,DATE,458
+3.9.10,DATE,458
+GitHub Bug Bounty,PRODUCT,458
+OpenShift,ORG,459
+Cross-Site Request Forgery,ORG,459
+WebSockets,ORG,459
+20240116,DATE,460
+QuTS,PRODUCT,460
+20240118,DATE,460
+Antivirus v8.17,PERSON,461
+Elevation of Privileges,ORG,461
+0x80112067,DATE,461
+IOCTL,ORG,461
+SIMATIC,ORG,462
+SIMATIC Route Control V9.1,ORG,462
+SIMATIC WinCC Runtime Professional V18,ORG,462
+SIMATIC WinCC Runtime Professional V19,ORG,462
+SIMATIC,ORG,462
+WinCC V7.4,PERSON,462
+SIMATIC WinCC,ORG,462
+15,CARDINAL,462
+SIMATIC,ORG,462
+WinCC V8.0,PERSON,462
+V8.0 SP4,PERSON,462
+RPC,ORG,462
+RPC,ORG,462
+RPC,ORG,462
+SAP CRM WebClient UI,ORG,463
+S4FND 102,LOC,463
+103,CARDINAL,463
+104,CARDINAL,463
+105,CARDINAL,463
+106,CARDINAL,463
+WEBCUIF,ORG,463
+701,CARDINAL,463
+WEBCUIF,ORG,463
+731,CARDINAL,463
+WEBCUIF,ORG,463
+746,CARDINAL,463
+WEBCUIF,ORG,463
+747,PRODUCT,463
+WEBCUIF,ORG,463
+748,CARDINAL,463
+WEBCUIF,ORG,463
+WEBCUIF,ORG,463
+801,CARDINAL,463
+Cross-Site Scripting,ORG,463
+XSS,GPE,463
+20240116,DATE,464
+QTS 4.5.4.2627,ORG,464
+20231225,DATE,464
+20240131,DATE,464
+20240131,DATE,464
+20240131,DATE,464
+20240131,DATE,464
+QuTS,PRODUCT,464
+20240118,DATE,464
+QuTS,PRODUCT,464
+20231225,DATE,464
+Simcenter,PERSON,465
+Catia,ORG,465
+ZDI-CAN-22059,ORG,465
+TYPO3,ORG,466
+PHP,ORG,466
+GPL,PERSON,466
+TYPO3,ORG,466
+the File Abstraction Layer,ORG,466
+DataHandler,PRODUCT,466
+zero,CARDINAL,466
+TYPO3,ORG,466
+8.7.57 ELTS,ORG,466
+ELTS,ORG,466
+10.4.43,CARDINAL,466
+12.4.11,CARDINAL,466
+the File Abstraction Layer,ORG,466
+DataHandler,ORG,466
+DataHandler,ORG,466
+Simcenter,PERSON,467
+Catia,ORG,467
+XML,ORG,468
+XXE,NORP,468
+Ivanti Connect Secure,ORG,468
+9.x,CARDINAL,468
+22.x,CARDINAL,468
+9.x,CARDINAL,468
+22.x,CARDINAL,468
+Tecnomatix Plant Simulation,ORG,469
+Tecnomatix Plant Simulation,ORG,469
+GitHub Enterprise Server,ORG,471
+SSH,ORG,471
+SMTP,ORG,471
+the Management Console,ORG,471
+GitHub Enterprise Server,ORG,471
+3.12,CARDINAL,471
+3.11.5,CARDINAL,471
+3.10.7,DATE,471
+3.9.10,DATE,471
+GitHub Bug Bounty,PRODUCT,471
+Simcenter,PERSON,472
+Catia,ORG,472
+Tecnomatix Plant Simulation,ORG,473
+Tecnomatix Plant Simulation,ORG,473
+SPP,ORG,473
+Vba32 Antivirus,PERSON,474
+Arbitrary Memory Read,WORK_OF_ART,474
+0x222023,GPE,474
+0x222027,PERSON,474
+0x22202F,GPE,474
+0x222057,GPE,474
+IOCTL,ORG,474
+Admin,PERSON,475
+SAP NetWeaver AS,ORG,475
+Java,PERSON,475
+7.50,CARDINAL,475
+Cross-Site Scripting,ORG,475
+XSS,GPE,475
+Tecnomatix Plant Simulation,ORG,476
+Tecnomatix Plant Simulation,ORG,476
+SPP,ORG,476
+Tecnomatix Plant Simulation,ORG,477
+Tecnomatix Plant Simulation,ORG,477
+SPP,ORG,477
+TYPO3,ORG,478
+PHP,ORG,478
+GPL,PERSON,478
+TYPO3,ORG,478
+t3://,WORK_OF_ART,478
+TYPO3,ORG,478
+8.7.57 ELTS,ORG,478
+ELTS,ORG,478
+10.4.43,CARDINAL,478
+12.4.11,CARDINAL,478
+TFTP,ORG,479
+GitHub Enterprise Server,ORG,480
+SSH,ORG,480
+HTTP,NORP,480
+the Management Console,ORG,480
+GitHub Enterprise Server,ORG,480
+3.12,CARDINAL,480
+3.11.5,CARDINAL,480
+3.10.7,DATE,480
+3.9.10,DATE,480
+GitHub Bug Bounty,PRODUCT,480
+Location Intelligence Perpetual Large,ORG,481
+9DE5110-8CA13-1AX0,DATE,481
+9DE5110-8CA12-1AX0,DATE,481
+Location Intelligence Perpetual Non-Prod,ORG,481
+9DE5110-8CA10-1AX0,DATE,481
+9DE5110-8CA11-1AX0,DATE,481
+Location Intelligence SUS Large,ORG,481
+9DE5110-8CA13-1BX0,DATE,481
+Location Intelligence SUS Medium,ORG,481
+9DE5110-8CA12-1BX0,DATE,481
+Location Intelligence SUS Non-Prod,ORG,481
+9DE5110-8CA10-1BX0,DATE,481
+Location Intelligence SUS Small,ORG,481
+9DE5110-8CA11-1BX0,DATE,481
+a Keyed-Hash Message Authentication Code,PRODUCT,481
+Trellix Central Management,ORG,482
+CM,ORG,482
+9.1.3.97129,CARDINAL,482
+CM,ORG,482
+CM,ORG,482
+SAP NetWeaver Application Server,ORG,483
+KERNEL,ORG,483
+7.53,CARDINAL,483
+KERNEL,ORG,483
+7.54,CARDINAL,483
+KERNEL,ORG,483
+7.77,CARDINAL,483
+KERNEL,ORG,483
+7.85,CARDINAL,483
+KERNEL,ORG,483
+7.89,CARDINAL,483
+KERNEL,ORG,483
+7.93,CARDINAL,483
+KERNEL,ORG,483
+7.94,CARDINAL,483
+KRNL64UC 7.53,PERSON,483
+SAP CRM WebClient UI,ORG,485
+102,CARDINAL,485
+103,CARDINAL,485
+104,CARDINAL,485
+105,CARDINAL,485
+106,CARDINAL,485
+107,CARDINAL,485
+108,CARDINAL,485
+WEBCUIF,ORG,485
+700,CARDINAL,485
+WEBCUIF,ORG,485
+701,CARDINAL,485
+WEBCUIF,ORG,485
+730,CARDINAL,485
+WEBCUIF,ORG,485
+731,CARDINAL,485
+WEBCUIF,ORG,485
+746,CARDINAL,485
+WEBCUIF,ORG,485
+747,PRODUCT,485
+WEBCUIF,ORG,485
+748,CARDINAL,485
+WEBCUIF,ORG,485
+WEBCUIF,ORG,485
+801,CARDINAL,485
+Cross-Site Scripting,ORG,485
+Tecnomatix Plant Simulation,ORG,486
+Tecnomatix Plant Simulation,ORG,486
+SPP,ORG,486
+GitHub Enterprise Server,ORG,487
+SSH,ORG,487
+the Management Console,ORG,487
+GitHub Enterprise Server,ORG,487
+3.12,CARDINAL,487
+3.11.5,CARDINAL,487
+3.10.7,DATE,487
+3.9.10,DATE,487
+GitHub Bug Bounty,PRODUCT,487
+Simcenter,PERSON,488
+Catia,ORG,488
+GitHub Enterprise Server,ORG,489
+SSH,ORG,489
+the Management Console,ORG,489
+GitHub Enterprise Server,ORG,489
+3.12,CARDINAL,489
+3.11.5,CARDINAL,489
+3.10.7,DATE,489
+3.9.10,DATE,489
+Tecnomatix Plant Simulation,ORG,490
+Tecnomatix Plant Simulation,ORG,490
+SPP,ORG,490
+Tecnomatix Plant Simulation,ORG,491
+Tecnomatix Plant Simulation,ORG,491
+WRL,ORG,491
+Resource Consumption,PRODUCT,492
+Honeywell Niagara Framework,GPE,492
+Linux,GPE,492
+QNX,ORG,492
+Content Spoofing,ORG,492
+Niagara Framework,PERSON,492
+Niagara AX 3.8.1,PERSON,492
+Niagara,PERSON,492
+4.1,CARDINAL,492
+Sidekiq,NORP,493
+UI,GPE,493
+UI,GPE,493
+1,CARDINAL,493
+2,CARDINAL,493
+3,CARDINAL,493
+8.0.7,CARDINAL,493
+Antivirus v8.17,PERSON,494
+Denial of Service,ORG,494
+0x80112044,CARDINAL,494
+0x8011204F,CARDINAL,494
+0x8011205B,GPE,494
+0x8011205F,DATE,494
+0x8011206F,CARDINAL,494
+0x80112073,ORG,494
+0x80112077,CARDINAL,494
+0x8011207C,ORG,494
+0x80112080 IOCTL,ORG,494
+Dell PowerProtect Data,ORG,495
+19.15,CARDINAL,495
+SAP NetWeaver AS Java,ORG,496
+7.50,CARDINAL,496
+XML,ORG,496
+Tecnomatix Plant Simulation,ORG,497
+Tecnomatix Plant Simulation,ORG,497
+WRL,ORG,497
+VLAN,ORG,498
+Tecnomatix Plant Simulation,ORG,500
+Tecnomatix Plant Simulation,ORG,500
+WRL,ORG,500
+TYPO3,ORG,501
+PHP,ORG,501
+GPL,PERSON,501
+TYPO3,ORG,501
+TYPO3,ORG,501
+8.7.57 ELTS,ORG,501
+ELTS,ORG,501
+10.4.43,CARDINAL,501
+12.4.11,CARDINAL,501
+SQL,ORG,502
+SQL,ORG,502
+Tecnomatix Plant Simulation,ORG,503
+Tecnomatix Plant Simulation,ORG,503
+WRL,ORG,503
+Polarion ALM,PERSON,504
+XSS,GPE,505
+SQL,ORG,506
+the BIG-IP Configuration,ORG,506
+Employee Managment System,ORG,507
+SQL,ORG,507
+Dell SupportAssist,ORG,508
+Home,ORG,508
+v3.0,ORG,508
+v3.14.1,ORG,508
+v3.0,ORG,508
+v3.4.1,GPE,508
+Windows,NORP,508
+CWE-798,PERSON,509
+EcoStruxure Control Expert,ORG,509
+SQL,ORG,510
+XSS,GPE,511
+Task Manager App,PRODUCT,511
+Tasks.php,ORG,511
+Collection Rest API.,FAC,512
+XSS,GPE,513
+Redaxo v5.15.1,PERSON,513
+Template,ORG,513
+Contiki-NG,ORG,514
+Next-Generation IoT,ORG,514
+RPL-Lite,LAW,514
+Contiki,NORP,514
+DIO,ORG,514
+Contiki-NG,ORG,514
+Contiki-NG,ORG,514
+2721,MONEY,514
+Improper Neutralization of Special Elements,ORG,516
+an SQL Command,ORG,516
+UNI-PA University Marketing &,ORG,516
+SQL Injection,ORG,516
+University Information System,ORG,516
+12.12.2023,DATE,516
+Mastodon,ORG,517
+ActivityPub,ORG,517
+Mastodon,PERSON,517
+CAS,ORG,517
+first,ORDINAL,517
+Mastodon,GPE,517
+Mastodon,GPE,517
+Microsoft Azure,ORG,517
+4.2.6,CARDINAL,517
+4.0.14,ORG,517
+3.5.18,CARDINAL,517
+Digdag,ORG,518
+Treasure Data's,ORG,518
+0.10.5.1,CARDINAL,518
+CVE-2023-46104,ORG,519
+Apache Superset,PRODUCT,519
+Apache Superset,PRODUCT,519
+2.1.2,CARDINAL,519
+3.0.0,CARDINAL,519
+3.0.1,CARDINAL,519
+XSS,GPE,520
+Add Resident,ORG,520
+XSS,GPE,521
+Add Resident,ORG,521
+Contiki-NG,ORG,522
+Next-Generation IoT,ORG,522
+RPL,ORG,522
+Contiki,NORP,522
+DIO,ORG,522
+DAO,ORG,522
+Contiki-NG,ORG,522
+4.9,CARDINAL,522
+Employee Managment System,ORG,523
+SQL,ORG,523
+SQL,ORG,524
+XSS,GPE,525
+Task Manager App,PRODUCT,525
+Task Name,PRODUCT,525
+Employee Managment System,ORG,526
+Password,FAC,526
+/alogin.html,ORG,526
+Contiki-NG,ORG,527
+Next-Generation IoT,ORG,527
+Contiki,NORP,527
+Contiki,NORP,527
+Contiki-NG,ORG,527
+#2741,DATE,527
+XSS,GPE,528
+Task Manager App,PRODUCT,528
+Project Name,ORG,528
+Projects.php,ORG,528
+Improper Authentication,ORG,529
+NFC,ORG,529
+Employee Managment System,ORG,530
+SQL,ORG,530
+/delete.php,ORG,530
+Employee Managment System,ORG,531
+SQL,ORG,531
+Acrobat Reader,PERSON,534
+20.005.30539,DATE,534
+23.008.20470,CARDINAL,534
+The SolarWinds Access Rights,ORG,535
+the Remote Code Execution,LAW,535
+Improper Neutralization of Special Elements,ORG,536
+an SQL Command,ORG,536
+Utarit Information Technologies SoliPay Mobile App,ORG,536
+SQL Injection,ORG,536
+SoliPay Mobile App,ORG,536
+5.0.8,TIME,536
+Acrobat Reader,PERSON,537
+20.005.30539,DATE,537
+23.008.20470,CARDINAL,537
+Acrobat Reader,PERSON,538
+20.005.30539,DATE,538
+23.008.20470,CARDINAL,538
+EBM Technologies Uniweb,ORG,539
+WebServer,ORG,539
+SQL,ORG,539
+The SolarWinds Access Rights,ORG,541
+a Remote Code Execution,LAW,541
+2022.1,CARDINAL,542
+Improper Authentication,ORG,542
+2.4.6,CARDINAL,543
+2.4.4,CARDINAL,543
+Cross-Site Scripting,ORG,543
+XSS,GPE,543
+JavaScript,ORG,543
+EBM Technologies RISWEB's,ORG,544
+SQL,ORG,544
+2.4.6,CARDINAL,546
+2.4.4,CARDINAL,546
+Uncontrolled Resource Consumption,ORG,546
+Acrobat Reader,PERSON,547
+20.005.30539,DATE,547
+23.008.20470,CARDINAL,547
+Acrobat Reader,PERSON,548
+20.005.30539,DATE,548
+23.008.20470,CARDINAL,548
+Acrobat Reader,PERSON,549
+20.005.30539,DATE,549
+23.008.20470,CARDINAL,549
+Fortinet,GPE,550
+7.2.0 - 7.2.6,CARDINAL,550
+7.4.0,CARDINAL,550
+FortiLink,ORG,550
+FortiSwitch,ORG,550
+Acrobat Reader,PERSON,551
+20.005.30539,DATE,551
+23.008.20470,CARDINAL,551
+Fortinet,GPE,552
+7.4.0,CARDINAL,552
+7.4.2,CARDINAL,552
+7.0.13,ORG,552
+FortiProxy,ORG,552
+7.4.0,CARDINAL,552
+7.4.2,CARDINAL,552
+7.2.8,CARDINAL,552
+FortiPAM,PRODUCT,552
+1.2.0,CARDINAL,552
+1.1.0,CARDINAL,552
+1.1.2,CARDINAL,552
+1.0.0,CARDINAL,552
+7.0.3,CARDINAL,552
+Fortinet,GPE,553
+9.2.0 - 9.2.8,CARDINAL,553
+9.1.0 - 9.1.10,CARDINAL,553
+Dell Networking Switches,ORG,554
+4.1.0,CARDINAL,554
+4.0.5,CARDINAL,554
+Critical,ORG,554
+Dell,ORG,554
+DELL ESI,ORG,556
+10.0,CARDINAL,556
+SolarWinds Access Rights,ORG,557
+SolarWinds,ORG,557
+Utarit Information Technologies SoliPay Mobile App,ORG,558
+Read Sensitive Strings,WORK_OF_ART,558
+SoliPay Mobile App,ORG,558
+5.0.8,TIME,558
+Acrobat Reader,PERSON,560
+20.005.30539,DATE,560
+23.008.20470,CARDINAL,560
+Acrobat Reader,PERSON,561
+20.005.30539,DATE,561
+23.008.20470,CARDINAL,561
+The SolarWinds Access Rights,ORG,562
+SolarWinds,ORG,562
+OS Command Injection,ORG,563
+EC-WEB FS-EZViewer(Web,ORG,564
+SQL,ORG,564
+2.4.6,CARDINAL,565
+2.4.4,CARDINAL,565
+Cross-Site Request Forgery,ORG,565
+Helm,PERSON,566
+Kubernetes,ORG,566
+Helm,PERSON,566
+SDK,ORG,566
+Helm v3.14.1,FAC,566
+Helm,PERSON,566
+2.4.6,CARDINAL,567
+2.4.4,CARDINAL,567
+Cross-Site Scripting,ORG,567
+XSS,GPE,567
+JavaScript,ORG,567
+2.4.6,CARDINAL,568
+2.4.4,CARDINAL,568
+Improper Neutralization of Special Elements,ORG,568
+OS Command,ORG,568
+SolarWinds Access Rights,ORG,569
+a Remote Code Execution,LAW,569
+13.1.0,DATE,570
+Acrobat Reader,PERSON,573
+20.005.30539,DATE,573
+23.008.20470,CARDINAL,573
+Arbitrary File Read and Delete,WORK_OF_ART,574
+Acrobat Reader,PERSON,575
+20.005.30539,DATE,575
+23.008.20470,CARDINAL,575
+Improper Neutralization of Special Elements,ORG,576
+an SQL Command,ORG,576
+SQL Injection,ORG,576
+Online Payment System,ORG,576
+14.02.2024,DATE,576
+Acrobat Reader,PERSON,577
+20.005.30539,DATE,577
+23.008.20470,CARDINAL,577
+Dell,ORG,578
+10.5.2.x,CARDINAL,578
+ECshop 4.1.8,ORG,579
+FortiManager,ORG,580
+7.4.0,CARDINAL,580
+7.4.1,CARDINAL,580
+FortiAnalyzer,PRODUCT,580
+7.4.0,CARDINAL,580
+7.4.1,CARDINAL,580
+FortiAnalyzer-BigData,ORG,580
+HTTP,ORG,580
+HTTPS,ORG,580
+JavaScript,PRODUCT,581
+XSS,GPE,581
+2.0-M4-2402,QUANTITY,581
+Undici,PERSON,582
+6.6.1,CARDINAL,582
+Dell RecoverPoint,ORG,583
+Virtual Machines,ORG,583
+OS Command,ORG,583
+2.0-M4-2402,CARDINAL,584
+2.0-M4-2402,QUANTITY,584
+Undici,PERSON,585
+Undici,PERSON,585
+Authorization,NORP,585
+5.28.3,CARDINAL,585
+6.6.1,CARDINAL,585
+Apache,PRODUCT,586
+XML,ORG,586
+3.0.0,CARDINAL,586
+3.2.5,CARDINAL,586
+3.2.5,CARDINAL,586
+DTD,ORG,586
+DOM,ORG,586
+SAX,ORG,586
+XERCES_DISABLE_DTD,PERSON,586
+CVE-2018-1311,ORG,586
+3.2.3,CARDINAL,586
+3.2.4,CARDINAL,586
+IBM,ORG,587
+1.10.12.0,CARDINAL,587
+1.10.17.0,CARDINAL,587
+IBM,ORG,587
+1.10.11.0,CARDINAL,587
+IBM X-Force,ORG,587
+275747,DATE,587
+IBM,ORG,588
+1.10.12.0,CARDINAL,588
+1.10.17.0,CARDINAL,588
+IBM,ORG,588
+1.10.11.0,CARDINAL,588
+IBM X-Force,ORG,588
+279975,DATE,588
+IBM,ORG,589
+1.10.12.0,CARDINAL,589
+1.10.17.0,CARDINAL,589
+IBM,ORG,589
+1.10.11.0,CARDINAL,589
+IBM X-Force,ORG,589
+279976,DATE,589
+Trusteer,PRODUCT,590
+SDK,ORG,590
+5.7,CARDINAL,590
+Trusteer Android,PERSON,590
+5.7,CARDINAL,590
+IBM X-Force,ORG,590
+238535,DATE,590
+IBM,ORG,591
+IBM X-Force,ORG,591
+237812,DATE,591
+IBM,ORG,592
+1.10.12.0,CARDINAL,592
+1.10.17.0,CARDINAL,592
+IBM,ORG,592
+1.10.11.0,CARDINAL,592
+IBM X-Force,ORG,592
+279977,DATE,592
+Yocto Project,PERSON,593
+Linux,GPE,593
+Yocto Project 4.3.1,PRODUCT,593
+Toaster,PERSON,593
+HTTP,ORG,593
+Toaster,PERSON,593
+Bitbake,LOC,593
+Toaster,PERSON,593
+Bitbake,LOC,593
+Yocto Project,ORG,593
+"5.0, 3.1.31",DATE,593
+4.0.16,DATE,593
+4.3.2,CARDINAL,593
+Apache,GPE,594
+Apache Camel,ORG,594
+3.0.0,CARDINAL,594
+3.21.4,CARDINAL,594
+3.22.0,CARDINAL,594
+3.22.1,CARDINAL,594
+4.0.0,CARDINAL,594
+4.0.4,DATE,594
+4.1.0,CARDINAL,594
+4.4.0,CARDINAL,594
+4.4.0,CARDINAL,594
+LTS,ORG,594
+4.0.4,CARDINAL,594
+3.x,CARDINAL,594
+3.21.4,CARDINAL,594
+3.22.1,CARDINAL,594
+Misskey,PERSON,595
+ActivityPub,ORG,595
+2024.2.0,CARDINAL,595
+Misskey,PERSON,595
+Misskey,NORP,595
+2024.2.0,CARDINAL,595
+Apache Camel,ORG,596
+Apache Camel,ORG,596
+3.0.0,CARDINAL,596
+3.21.4,CARDINAL,596
+3.22.0,CARDINAL,596
+3.22.1,CARDINAL,596
+4.0.0,CARDINAL,596
+4.0.4,DATE,596
+4.1.0,CARDINAL,596
+4.4.0,CARDINAL,596
+4.4.0,CARDINAL,596
+LTS,ORG,596
+4.0.4,CARDINAL,596
+3.x,CARDINAL,596
+3.21.4,CARDINAL,596
+3.22.1,CARDINAL,596
+19.10,CARDINAL,597
+programfiles(x86)% LaborOfficeFree BackUp',EVENT,597
+eProsima Fast DDS,ORG,598
+C++,CARDINAL,598
+the Data Distribution Service,ORG,598
+the Object Management Group,ORG,598
+SROS2,ORG,598
+p[UD,ORG,598
+guid,WORK_OF_ART,598
+Subscriber,DATE,598
+Subscriber,DATE,598
+p[UD,ORG,598
+the Global Data Space,ORG,598
+239.255.0.1:7400,CARDINAL,598
+Talker,NORP,598
+the Subscribers (Listeners,ORG,598
+SecurityManager.cpp` code (`,LAW,598
+"Nov 8, 2016",DATE,598
+the Disconnect Vulnerability,ORG,598
+SROS2,ORG,598
+2.13.0,CARDINAL,598
+2.12.2,CARDINAL,598
+2.11.3,CARDINAL,598
+2.10.3,CARDINAL,598
+2.6.7,DATE,598
+PrestaShop,ORG,599
+8.1.0,CARDINAL,599
+8.1.4,CARDINAL,599
+PrestaShop,ORG,599
+JavaScript,PRODUCT,599
+8.1.4,CARDINAL,599
+Undertow,ORG,600
+HTTP,ORG,600
+HTTP,ORG,600
+WriteTimeoutStreamSinkConduit,ORG,600
+RemotingConnection,ORG,600
+Remoting ServerConnectionOpenListener,ORG,600
+Undertow,ORG,600
+HTTP,ORG,600
+the Undertow WriteTimeoutStreamSinkConduit,ORG,600
+WriteTimeoutStreamSinkConduit,ORG,600
+Undertow,ORG,600
+Mastodon,ORG,601
+ActivityPub,ORG,601
+4.2.7,CARDINAL,601
+4.1.15,DATE,601
+4.0.15,DATE,601
+3.5.19,PRODUCT,601
+Mastodon,ORG,601
+Mastodon,ORG,601
+ActivityPub,ORG,601
+Versions 4.2.7,LAW,601
+4.1.15,DATE,601
+4.0.15,DATE,601
+Admin Classic Bundle,ORG,602
+Pimcore,GPE,602
+1.3.4,CARDINAL,602
+UserController,ORG,602
+loginUrl,MONEY,602
+HTTP,ORG,602
+HTTP,ORG,602
+POST,ORG,602
+1.3.4,CARDINAL,602
+2.4.1,CARDINAL,603
+Apache Dolphinscheduler,PERSON,604
+Apache DolphinScheduler,PRODUCT,604
+3.2.1,CARDINAL,604
+Apache DolphinScheduler,PRODUCT,604
+3.2.1,CARDINAL,604
+HttpUtils,FAC,605
+https,PERSON,605
+Apache DolphinScheduler,PRODUCT,605
+3.2.1,CARDINAL,605
+Zyxel ATP,GPE,606
+4.32,CARDINAL,606
+5.37,CARDINAL,606
+1,CARDINAL,606
+USG,ORG,606
+4.50,CARDINAL,606
+5.37,CARDINAL,606
+LAN,ORG,606
+RAR,ORG,606
+LAN,ORG,606
+Cross Site Scripting,ORG,607
+Enhancesoft,LOC,607
+1.18.0,CARDINAL,607
+Biosig Project,ORG,608
+Master Branch,WORK_OF_ART,608
+ab0ee111,ORG,608
+LMS,ORG,609
+Cross-Site Scripting,ORG,609
+XSS,GPE,609
+XSS,GPE,609
+JavaScript,PRODUCT,609
+Zyxel ATP,GPE,610
+4.32,CARDINAL,610
+5.37,CARDINAL,610
+1,CARDINAL,610
+USG FLEX,ORG,610
+4.50,CARDINAL,610
+5.37,CARDINAL,610
+1,CARDINAL,610
+USG,ORG,610
+4.16,CARDINAL,610
+5.37,CARDINAL,610
+1,CARDINAL,610
+4.16,CARDINAL,610
+5.37,CARDINAL,610
+1,CARDINAL,610
+1.10,CARDINAL,610
+1.10,CARDINAL,610
+IPSec,ORG,610
+the DICOM Element Parsing,ORG,611
+Imaging Data Commons,ORG,611
+DICOM,GPE,611
+DICOM,GPE,611
+the Sequence Value Represenations,ORG,611
+0.0.6,GPE,612
+the BrainVision ASCII Header Parsing,ORG,613
+Biosig Project,ORG,613
+Master Branch,WORK_OF_ART,613
+ab0ee111,ORG,613
+Decidim,PERSON,614
+0.27.0,CARDINAL,614
+0.27.5,CARDINAL,614
+0.28.0,ORG,614
+0.27.5,CARDINAL,614
+0.28.0,CARDINAL,614
+the DICOM Element Parsing,ORG,615
+Imaging Data Commons,ORG,615
+DICOM,GPE,615
+DICOM,GPE,615
+parse_meta_element_create,ORG,615
+the File Meta Information,ORG,615
+Totolink X6000R 9.4.0cu.852_B20230719,DATE,616
+LMS,ORG,617
+Cross-Site Scripting,ORG,617
+XSS,GPE,617
+the Media Center of OpenOlat,ORG,617
+18.1.5,DATE,617
+SVG,ORG,617
+XSS,GPE,617
+JavaScript,PRODUCT,617
+Loomio,ORG,618
+2.22.0,CARDINAL,618
+OS Command Injection,ORG,618
+Cross Site Scripting,ORG,619
+XSS,GPE,619
+ProjeQtOr,GPE,619
+11.0.2,DATE,619
+CVE Numbering Authority,ORG,620
+Suite CRM,ORG,621
+7.14.2,CARDINAL,621
+Apache Dolphinscheduler,PERSON,622
+Apache DolphinScheduler,PRODUCT,622
+3.2.1,CARDINAL,622
+Apache DolphinScheduler,PRODUCT,622
+3.2.1,CARDINAL,622
+Biosig Project,ORG,623
+Master Branch,WORK_OF_ART,623
+ab0ee111,ORG,623
+Biosig Project,ORG,624
+Master Branch,WORK_OF_ART,624
+ab0ee111,ORG,624
+IPSec,ORG,625
+Zyxel ATP,ORG,625
+4.32,CARDINAL,625
+5.37,CARDINAL,625
+1,CARDINAL,625
+USG FLEX,ORG,625
+4.50,CARDINAL,625
+5.37,CARDINAL,625
+1,CARDINAL,625
+USG,ORG,625
+4.16,CARDINAL,625
+5.37,CARDINAL,625
+1,CARDINAL,625
+4.16,CARDINAL,625
+5.37,CARDINAL,625
+Mongo Hook,PERSON,626
+4.0.0,CARDINAL,626
+IP,ORG,627
+Weston,GPE,627
+keerti1924 PHP-MYSQL-User-Login-System,ORG,628
+1.0,CARDINAL,628
+VDB-254390,PERSON,628
+PMB 7.4.7,ORG,629
+SQL,ORG,629
+XSS,GPE,630
+Cross-Site Request Forgery,ORG,632
+Frédéric GILLES FG PrestaShop,ORG,632
+WooCommerce,ORG,632
+Frédéric GILLES FG Drupal,ORG,632
+WordPress,ORG,632
+Frédéric GILLES FG Joomla,ORG,632
+WordPress,ORG,632
+FG,ORG,632
+PrestaShop,PRODUCT,632
+WooCommerce,ORG,632
+4.44.3,CARDINAL,632
+FG Drupal,ORG,632
+WordPress,ORG,632
+3.67.0,CARDINAL,632
+FG Joomla,ORG,632
+WordPress,ORG,632
+4.15.0,CARDINAL,632
+/pmb/opac_css/,ORG,633
+SQL,ORG,633
+GitLab CE,FAC,634
+16.9,CARDINAL,634
+16.9.1,DATE,634
+XSS,GPE,634
+STP,ORG,635
+ASMIMPORT228A.dll,GPE,635
+Autodesk,PERSON,635
+IBM,ORG,636
+11.7,CARDINAL,636
+JavaScript,PRODUCT,636
+IBM X-Force,ORG,636
+256544,DATE,636
+ZKTeco ZKBio,ORG,637
+3.3.2,CARDINAL,637
+VDB-254396,GPE,637
+3.31.1,CARDINAL,638
+Querybook,GPE,638
+Querybook,GPE,638
+3.31.1,PRODUCT,638
+DataDocs,PRODUCT,638
+keerti1924 PHP-MYSQL-User-Login-System,ORG,639
+1.0,CARDINAL,639
+/signup.php,PRODUCT,639
+VDB-254388,NORP,639
+SQL Injection,PERSON,640
+PMB Services,ORG,640
+PMB v.7.4.7,FAC,640
+export_z3950.php,GPE,640
+Cross-Site Request Forgery,ORG,641
+David Stockl,PERSON,641
+Styles,PERSON,641
+Styles,PERSON,641
+1.1.2,CARDINAL,641
+Cross-Site Request Forgery,ORG,642
+Janis,GPE,642
+Admin Menu Editor,PERSON,642
+Admin Menu,ORG,642
+1.12,CARDINAL,642
+STP,ORG,643
+ASMKERN228A.dll,LOC,643
+Autodesk,PERSON,643
+GitLab,GPE,644
+16.7.6,DATE,644
+16.8,CARDINAL,644
+16.9,CARDINAL,644
+16.9.1,DATE,644
+Cross-Site Request Forgery,ORG,645
+Team Debug,PERSON,645
+Debug,PERSON,645
+1.10,CARDINAL,645
+SQL,ORG,646
+PMB v.7.4.7,GPE,646
+export_skos.php,PERSON,646
+Cross-Site Request Forgery,ORG,647
+PowerPack Addons for Elementor PowerPack Pro for Elementor,WORK_OF_ART,647
+PowerPack Pro for Elementor:,PRODUCT,647
+2.10.8,CARDINAL,647
+Cross-Site Request Forgery,ORG,648
+Mondula GmbH,GPE,648
+Cross-Site Request Forgery,ORG,649
+Mark Stockton Quicksand Post Filter jQuery Plugin,PERSON,649
+Quicksand Post Filter jQuery Plugin,ORG,649
+3.1.1,CARDINAL,649
+PMB 7.4.7,ORG,650
+SQL,ORG,650
+GitLab,ORG,651
+15.1,CARDINAL,651
+16.7.6,CARDINAL,651
+16.8,CARDINAL,651
+16.8.3,CARDINAL,651
+16.9,CARDINAL,651
+16.9.1,CARDINAL,651
+Cross-Site Request Forgery,ORG,652
+Themify Themify Builder,FAC,652
+Themify Builder,FAC,652
+7.0.5,CARDINAL,652
+GitLab,GPE,653
+16.4,CARDINAL,653
+16.8,CARDINAL,653
+16.9,CARDINAL,653
+16.9.1,CARDINAL,653
+Guest,PERSON,653
+keerti1924 PHP-MYSQL-User-Login-System,ORG,654
+1.0,CARDINAL,654
+GitLab CE,FAC,655
+16.1,CARDINAL,655
+16.8,CARDINAL,655
+16.9,CARDINAL,655
+LDAP,ORG,655
+GARO WALLBOX,LOC,656
+0.5,CARDINAL,656
+Software Update Handler,ORG,656
+ConnectWise ScreenConnect,PRODUCT,657
+Cross Site Scripting,ORG,658
+ITFlow.org,GPE,658
+settings+company.php,PERSON,658
+settings_defaults.php,ORG,658
+settings_integrations.php,ORG,658
+settings_invoice.php,ORG,658
+settings_localization.php,PERSON,658
+settings_mail.php,PERSON,658
+Fortinet,GPE,659
+7.2.4,DATE,659
+7.0.11,DATE,659
+6.4.0,CARDINAL,659
+6.2.0,CARDINAL,659
+6.0.0,CARDINAL,659
+6.0.16,CARDINAL,659
+FortiProxy 7.2.0,ORG,659
+7.2.4,DATE,659
+7.0.10,CARDINAL,659
+2.0.0,CARDINAL,659
+2.0.12,CARDINAL,659
+1.2.0,CARDINAL,659
+1.1.0,CARDINAL,659
+1.1.6,CARDINAL,659
+1.0.0,CARDINAL,659
+1.0.0,CARDINAL,659
+1.0.3,CARDINAL,659
+Release Note Handler,PERSON,660
+VDB-254530,ORG,660
+Unrestricted Upload of File,ORG,661
+Apache Answer,LOC,661
+Apache Answer,PRODUCT,661
+1.2.1,CARDINAL,661
+Shared Resource,ORG,662
+Apache Answer,LOC,662
+Apache Answer,PRODUCT,662
+1.2.1,CARDINAL,662
+baserCMS,PERSON,663
+5.0.9,CARDINAL,663
+5.0.9,CARDINAL,663
+The User Feedback – Create Interactive Feedback Form,ORG,664
+Seconds,GPE,664
+WordPress,ORG,664
+Stored Cross-Site Scripting,ORG,664
+2.3,CARDINAL,665
+Image Download Handler,ORG,665
+VDB-254532,CARDINAL,665
+Fortinet,GPE,666
+7.2.4,DATE,666
+7.0.11,DATE,666
+6.4.0,CARDINAL,666
+Fortiproxy,GPE,666
+7.2.4,DATE,666
+7.0.10,CARDINAL,666
+HTTP,ORG,666
+Bdtask Bhojon Best,PERSON,667
+2.9,CARDINAL,667
+Message Page,WORK_OF_ART,667
+Title,WORK_OF_ART,667
+Library System,PRODUCT,668
+1.0,CARDINAL,668
+Totolink X6000R,DATE,669
+VDB-254573,PERSON,669
+Limbas,NORP,670
+main_admin.php,ORG,670
+VDB-254575,PERSON,670
+Improper Limitation,ORG,671
+a Restricted Directory,ORG,671
+Path Traversal',PERSON,671
+Arne Franken,FAC,671
+One,CARDINAL,671
+One,CARDINAL,671
+4.7,CARDINAL,671
+Library System,PRODUCT,672
+1.0,CARDINAL,672
+VDB-254614,CARDINAL,672
+MLflow,PERSON,673
+XSS,GPE,673
+RCE,ORG,673
+Jupyter Notebook,PERSON,673
+Improper Input Validation,PERSON,674
+Apache DolphinScheduler,PRODUCT,674
+unsandboxed javascript,PERSON,674
+CVE-2023-49299,GPE,674
+CVE-2023-49299,GPE,674
+one,CARDINAL,674
+Apache DolphinScheduler,PRODUCT,674
+3.2.1,CARDINAL,674
+3.2.1,CARDINAL,674
+MLflow,PERSON,675
+XSS,GPE,675
+RCE,ORG,675
+Jupyter Notebook,PERSON,675
+1.15.0,CARDINAL,676
+ONNX_ASSERTM,GPE,676
+one,CARDINAL,676
+SourceCodester Employee Management System,ORG,677
+1.0,CARDINAL,677
+SourceCodester Complete File Management System,ORG,678
+1.0,CARDINAL,678
+Login Form,PERSON,678
+VDB-254622,CARDINAL,678
+Improper Neutralization of Special Elements,ORG,679
+an SQL Command,ORG,679
+Sitepact,GPE,679
+Sitepact,NORP,679
+1.0.5,CARDINAL,679
+SourceCodester Complete File Management System,ORG,680
+1.0,CARDINAL,680
+Admin Login Form,PERSON,680
+Demososo DM,ORG,681
+2022.8,CARDINAL,681
+Cookie Handler,PERSON,681
+Library System,PRODUCT,682
+1.0,CARDINAL,682
+VDB-254616,NORP,682
+Library System,PRODUCT,683
+1.0,CARDINAL,683
+Crime Reporting System,ORG,684
+1.0,CARDINAL,684
+Crime Reporting System,ORG,685
+1.0,CARDINAL,685
+police_id/police_spec/,ORG,685
+CodeAstro Simple Voting System,ORG,686
+1.0,CARDINAL,686
+Backend,ORG,686
+VDB-254611,PRODUCT,686
+Raaj Trambadia Pexels: Free Stock Photos,FAC,687
+Pexels: Free Stock Photos,ORG,687
+NULL Pointer Dereference,ORG,688
+Silicon Labs's,ORG,688
+Ember,ORG,688
+v7.4.0,CARDINAL,688
+Admin,PERSON,689
+WordPress,ORG,689
+1.1.1,CARDINAL,689
+SQL,ORG,689
+SQL,ORG,689
+SourceCodester Simple Student Attendance System,ORG,690
+1.0,CARDINAL,690
+2024-02-23%22%3E%3Cscript%3Ealert(1)%3C,DATE,690
+CodeAstro House Rental Management System,ORG,691
+1.0,CARDINAL,691
+User Registration Page,ORG,691
+VDB-254613,PERSON,691
+PHPGurukul Tourism Management System,ORG,692
+1.0,CARDINAL,692
+VDB-254610,ORG,692
+Library System,PRODUCT,693
+1.0,CARDINAL,693
+VDB-254617,PERSON,693
+CodeAstro Membership Management System,ORG,694
+1.0,CARDINAL,694
+Logo Handler,PERSON,694
+IBM,ORG,695
+3.4.2,CARDINAL,695
+SQL,ORG,695
+SQL,ORG,695
+IBM X-Force,ORG,695
+239079,DATE,695
+SMA100,CARDINAL,696
+MFA,ORG,696
+IBM,ORG,697
+11.2.4,DATE,697
+IBM X-Force,ORG,697
+255898,DATE,697
+SQL Injection,PERSON,698
+2024R1.01,CARDINAL,698
+IP,ORG,699
+GGUF,ORG,700
+GGUF,ORG,701
+IBM,ORG,702
+11.2.4,DATE,702
+Windows,NORP,702
+IBM X-Force,ORG,702
+254290,DATE,702
+SourceCodester Employee Management System,ORG,703
+1.0,CARDINAL,703
+1%20or%201=1,CARDINAL,703
+VDB-254725,PERSON,703
+XSS,GPE,704
+XSS,GPE,704
+XSS,GPE,704
+Unrestricted Upload of File,ORG,705
+JoomUnited,ORG,705
+5.7.2,CARDINAL,705
+GGUF,ORG,706
+Unrestricted Upload of File,ORG,707
+bPlugins,FAC,707
+Font Loader,PERSON,707
+1.1.4,CARDINAL,707
+Cross-Site Request Forgery,ORG,708
+SMA Cluster Controller,ORG,708
+01.05.01.R.,CARDINAL,708
+SQL Injection,PERSON,709
+Niushop,ORG,709
+V5,CARDINAL,709
+SQL,ORG,709
+CVE Numbering Authority,ORG,710
+Unauthorized Actor,ORG,711
+SmartBar,ORG,711
+Slide,ORG,711
+WooCommerce Coupon Popup,ORG,711
+SmartBar,ORG,711
+Slide,ORG,711
+1.0.9,CARDINAL,711
+GGUF,ORG,712
+SourceCodester Complaint Management System,ORG,713
+1.0,CARDINAL,713
+Lodge Complaint Section,ORG,713
+VDB-254723,PRODUCT,713
+BeautifulSoup as Soup,PRODUCT,714
+Unrestricted Upload of File,ORG,715
+Skymoonlabs,NORP,715
+6.2,CARDINAL,715
+IBM,ORG,716
+11.2.4,DATE,716
+JavaScript,PRODUCT,716
+IBM X-Force,ORG,716
+260744,DATE,716
+SourceCodester Employee Management System,ORG,717
+1.0,CARDINAL,717
+VDB-254724,PERSON,717
+SQL Injection,PERSON,718
+Niushop,ORG,718
+V5,CARDINAL,718
+SQL,ORG,718
+Unrestricted Upload of File,ORG,719
+Fees & Discounts,ORG,719
+WooCommerce Easy Checkout,ORG,719
+Fees & Discounts,ORG,719
+IBM,ORG,720
+11.2.4,DATE,720
+JavaScript,PRODUCT,720
+IBM X-Force,ORG,720
+267451,DATE,720
+SourceCodester Employee Management System,ORG,721
+1.0,CARDINAL,721
+Project Assignment Report,ORG,721
+MIME4J,ORG,722
+MIME4J,ORG,722
+CodeAstro Membership Management System,ORG,723
+1.0,CARDINAL,723
+membershipTypeId,ORG,723
+VDB-254859,PRODUCT,723
+XML External Entity,ORG,724
+apache ambari versions,PRODUCT,724
+2.7.7,CARDINAL,724
+2.7.8,CARDINAL,724
+Oozie Workflow Scheduler,PERSON,724
+XXE,ORG,724
+XXE,NORP,724
+ConsultIDs,ORG,726
+Unrestricted Upload of File,ORG,727
+XSS,GPE,728
+Acronis Cyber Protect,PRODUCT,728
+Linux,GPE,728
+Windows,GPE,728
+37391,DATE,728
+SourceCodester Online Job Portal,ORG,729
+1.0,CARDINAL,729
+Job Page,PERSON,729
+Qualification/Description,ORG,729
+LightPicture,ORG,730
+Setup.php,ORG,730
+VDB-254856,GPE,730
+Cross Site Scripting,ORG,731
+Bonitasoft,GPE,731
+S.A,LOC,731
+v.9.0.2,GPE,731
+8.0.3,DATE,731
+7.15.7,CARDINAL,731
+7.14.8,CARDINAL,731
+Groups Display,ORG,731
+Acronis Cyber Protect,PRODUCT,732
+Windows,GPE,732
+37391,DATE,732
+Unauthorized Actor,ORG,733
+Apache Aurora,PERSON,733
+SourceCodester Free and Open Source Inventory Management System,ORG,734
+1.0,CARDINAL,734
+CuRL,ORG,735
+zero,CARDINAL,735
+SourceCodester Simple Student Attendance System,ORG,736
+1.0,CARDINAL,736
+List of Classes Page,WORK_OF_ART,736
+SourceCodester Online Job Portal,ORG,737
+1.0,CARDINAL,737
+Walkin Page,PERSON,737
+Job Title,ORG,737
+VDB-254854,PERSON,737
+XSS,GPE,738
+Acronis Cyber Protect,PRODUCT,738
+Linux,GPE,738
+Windows,GPE,738
+37391,DATE,738
+SQL,ORG,739
+Dynamic Lab Management System Project,ORG,739
+PHP v.1.0,FAC,739
+Apache Ambari,PRODUCT,740
+2.7.8,CARDINAL,740
+2.7.8,CARDINAL,740
+A Cluster Operator,PRODUCT,740
+UI,ORG,741
+Apache James,PERSON,742
+3.7.5,CARDINAL,742
+3.8.0,CARDINAL,742
+JMX,ORG,742
+JMX,ORG,742
+Apache James,PRODUCT,742
+JMX,ORG,742
+Apache James,PERSON,743
+3.8.1,CARDINAL,743
+SMTP,ORG,743
+SMTP,ORG,743
+SPF,ORG,743
+DATA,NORP,743
+James,PERSON,743
+Ctcms 2.1.2,ORG,744
+Upsys.php,ORG,744
+VDB-254860,GPE,744
+Beijing,GPE,745
+20240219,DATE,745
+VDB-254839,ORG,745
+XSS,GPE,746
+Acronis Cyber Protect,PRODUCT,746
+Linux,GPE,746
+Windows,GPE,746
+37391,DATE,746
+CodeAstro Membership Management System,ORG,747
+PHP v.1.0,FAC,747
+SQL,ORG,747
+Cross-Site Request Forgery,ORG,748
+Ecwid Ecommerce Ecwid Ecommerce Shopping Cart,WORK_OF_ART,748
+Ecwid Ecommerce Shopping Cart,PRODUCT,748
+6.12.4,CARDINAL,748
+SQL,ORG,749
+Projectworlds Visitor Management System,ORG,749
+PHP v.1.0,FAC,749
+Cross-Site Request Forgery,ORG,750
+Scott Paterson Easy PayPal & Stripe Buy,PERSON,750
+Button,PERSON,750
+Easy PayPal & Stripe Buy,ORG,750
+Button,PERSON,750
+1.8.1,CARDINAL,750
+Haivision's Aviwest,ORG,751
+Aviwest Steamhub,ORG,751
+IBM,ORG,752
+3.0,CARDINAL,752
+3.0.1,CARDINAL,752
+4.0,CARDINAL,752
+4.1,CARDINAL,752
+4.1.1,PERSON,752
+IBM X-Force,ORG,752
+247632,DATE,752
+Improper Neutralization of Special Elements,ORG,753
+an SQL Command,ORG,753
+Malware Scanner,PERSON,753
+Malware Scanner,PERSON,753
+4.7.2,CARDINAL,753
+Cross-Site Request Forgery,ORG,754
+WooCommerce,ORG,754
+WooCommerce,ORG,754
+2.0.8,CARDINAL,754
+Cross-Site Request Forgery,ORG,755
+Atahualpa,GPE,755
+Atahualpa,GPE,755
+Cross-Site Request Forgery,ORG,756
+Advanced Flamingo,GPE,756
+Advanced Flamingo,ORG,756
+1.0,CARDINAL,756
+REST API,PRODUCT,757
+SQL,ORG,757
+Apache Superset,PRODUCT,757
+3.0.4,CARDINAL,757
+3.1.0,CARDINAL,757
+3.1.1,CARDINAL,757
+3.1.1,CARDINAL,757
+3.0.4,CARDINAL,757
+Cross-Site Request Forgery,ORG,758
+Atakan Au 1,PERSON,758
+1,CARDINAL,758
+1.0.1,CARDINAL,758
+Rack,PERSON,759
+Ruby,PERSON,759
+3.0.9.1,CARDINAL,759
+2.2.8.1,CARDINAL,759
+IBM,ORG,760
+11.7,CARDINAL,760
+JavaScript,PRODUCT,760
+IBM X-Force,ORG,760
+273333,DATE,760
+IBM,ORG,761
+3.0,CARDINAL,761
+3.0.1,CARDINAL,761
+4.0,CARDINAL,761
+4.1,CARDINAL,761
+4.1.1,PERSON,761
+IBM X-Force,ORG,761
+247621,DATE,761
+Improper Neutralization of Special Elements,ORG,762
+an SQL Command,ORG,762
+Smartypants SP Project & Document,ORG,762
+SP Project & Document,ORG,762
+4.69,CARDINAL,762
+Potential Cross-Site Scripting,ORG,763
+XSS,GPE,763
+Improper Neutralization of Special Elements,ORG,764
+an SQL Command,ORG,764
+Joel Starnes,PERSON,764
+1.2.0,CARDINAL,764
+Improper Neutralization of Special Elements,ORG,765
+an SQL Command,ORG,765
+Skymoonlabs,NORP,765
+6.2,CARDINAL,765
+CodeAstro Membership Management System,ORG,766
+PHP v.1.0,FAC,766
+SQL,ORG,766
+Cross-Site Request Forgery,ORG,767
+Duplicator Duplicator – WordPress Migration & Backup Plugin,ORG,767
+Duplicator – WordPress Migration & Backup Plugin:,ORG,767
+1.5.7,CARDINAL,767
+Cross-Site Request Forgery,ORG,768
+Matt Martz &,ORG,768
+Andy Stratton,PERSON,768
+Page Restrict,FAC,768
+Dell ECS,ORG,769
+3.6,CARDINAL,769
+3.6.2.5,CARDINAL,769
+3.7,CARDINAL,769
+3.7.0.6,DATE,769
+3.8,CARDINAL,769
+Alerts on Alerts & Reports,ORG,770
+SQL,ORG,770
+Apache Superset,PERSON,770
+Alert,ORG,770
+Apache Superset,PRODUCT,770
+3.0.4,CARDINAL,770
+3.1.0,CARDINAL,770
+3.1.1,CARDINAL,770
+3.1.1,CARDINAL,770
+3.0.4,CARDINAL,770
+Apache OFBiz,LOC,771
+18.12.12,CARDINAL,771
+Netentsec NS-ASG Application Security Gateway 6.3,ORG,772
+ResId,PERSON,772
+Cross-Site Request Forgery,ORG,773
+Nuggethon Custom Order Statuses,GPE,773
+WooCommerce,ORG,773
+Custom Order Statuses,ORG,773
+WooCommerce,ORG,773
+Improper Neutralization of Input During,ORG,774
+Jordy,NORP,774
+Media Alt Renamer,ORG,774
+1.5.10,CARDINAL,775
+HTTP,ORG,775
+SSRF,ORG,775
+IBM,ORG,776
+3.0,CARDINAL,776
+3.0.1,CARDINAL,776
+4.0,CARDINAL,776
+4.1,CARDINAL,776
+4.1.1,PERSON,776
+XXE,ORG,776
+XML,ORG,776
+IBM X-Force,ORG,776
+247599,DATE,776
+Cross-Site Request Forgery,ORG,777
+Thrive Themes Thrive Automator,ORG,777
+Thrive Automator,ORG,777
+1.17,CARDINAL,777
+SourceCodester,PERSON,778
+1.0,CARDINAL,778
+Edit User Profile Page,WORK_OF_ART,778
+Fullname,PERSON,778
+VDB-254864,PRODUCT,778
+Acrobat Reader,PERSON,779
+20.005.30539,DATE,779
+23.008.20470,CARDINAL,779
+Cross-Site Request Forgery,ORG,780
+W3speedster,PERSON,780
+7.19,CARDINAL,780
+1.0,CARDINAL,782
+Improper Neutralization of Input During,ORG,783
+Pascal Bajorat PB oEmbed,ORG,783
+HTML5 Audio,PERSON,783
+Cache Support,PERSON,783
+PB oEmbed HTML5 Audio,ORG,783
+Cache Support,PERSON,783
+2.6,CARDINAL,783
+Improper Neutralization of Input During,ORG,784
+Melapress WP Activity Log,ORG,784
+4.6.1,CARDINAL,784
+Improper Neutralization of Input During,ORG,785
+José Fernandez,PERSON,785
+Adsmonetizer,ORG,785
+3.1.2,CARDINAL,785
+Cross-Site Request Forgery,ORG,787
+Manish Kumar Agarwal Change Table Prefix,PERSON,787
+Change Table Prefix,ORG,787
+2.0,CARDINAL,787
+Cross-Site Scripting,ORG,788
+CMS,ORG,788
+2.7.0,CARDINAL,788
+PDF,ORG,788
+JavaScript,PRODUCT,788
+Cross-Site Request Forgery,ORG,789
+HasThemes HT Mega – Absolute Addons For Elementor,ORG,789
+2.3.3,CARDINAL,789
+Improper Neutralization of Input During,ORG,790
+Shopfiles Ltd Ebook Store,ORG,790
+Stored XSS.This,PERSON,790
+Ebook Store,PERSON,790
+5.788,CARDINAL,790
+Netentsec NS-ASG Application Security Gateway 6.3,ORG,791
+GroupId,PERSON,791
+Unrestricted Upload of File,ORG,792
+Mollie Mollie,PERSON,792
+WooCommerce,ORG,792
+Mollie Payments,PERSON,792
+WooCommerce,ORG,792
+7.3.11,CARDINAL,792
+1.0,CARDINAL,794
+index_search.php,PERSON,794
+Cross-Site Request Forgery,ORG,795
+Native Grid,LOC,795
+SourceCodester Online Learning System,ORG,796
+1.0,CARDINAL,796
+VDB-255126,CARDINAL,796
+Library Management System,ORG,797
+2.0,CARDINAL,797
+Improper Neutralization of Input During,ORG,799
+Milan,GPE,799
+GD Rating System,ORG,799
+GD Rating System,ORG,799
+3.5,CARDINAL,799
+Cross-Site Request Forgery,ORG,800
+Anti-Spam Protection Spam,ORG,800
+Anti-Spam,PERSON,800
+CleanTalk,ORG,800
+Spam,ORG,800
+Anti-Spam,PERSON,800
+CleanTalk,ORG,800
+6.20,CARDINAL,800
+Cross-Site Request Forgery,ORG,801
+GS Plugins,GPE,801
+Logo Slider,PERSON,801
+Logo Showcase,PERSON,801
+Logo Carousel,PERSON,801
+Logo Gallery,PERSON,801
+Client Logo Presentation,PERSON,801
+Logo Slider,PERSON,801
+Logo Showcase,PERSON,801
+Logo Carousel,PERSON,801
+Logo Gallery,PERSON,801
+Client Logo Presentation,PERSON,801
+3.5.1,CARDINAL,801
+Cross-Site Request Forgery,ORG,802
+Heureka Group Heureka,ORG,802
+Heureka,GPE,802
+1.17.5,CARDINAL,803
+Local File Read,ORG,803
+Unauthorized Actor,ORG,804
+Tainacan,NORP,804
+Tainacan,NORP,804
+Tainacan,NORP,804
+0.20.6,CARDINAL,804
+Improper Neutralization of Input During,ORG,805
+Paul Jura,ORG,805
+Nicolas Montigny PJ News Ticker,PERSON,805
+Stored XSS.This,PERSON,805
+PJ News Ticker,ORG,805
+1.9.5,DATE,805
+Cross-Site Request Forgery,ORG,807
+Senol Sahin AI Power,PERSON,807
+Complete AI Pack – Powered,PERSON,807
+GPT-4.This,ORG,807
+AI Power,ORG,807
+Complete AI Pack – Powered,PERSON,807
+GPT-4,PERSON,807
+Improper Neutralization of Input During,ORG,808
+Savvy Wordpress Development MyWaze,ORG,808
+MyWaze,ORG,808
+1.6,CARDINAL,808
+Library Management System,ORG,809
+2.0,CARDINAL,809
+VDB-249005,PERSON,809
+Delta Electronics CNCSoft,ORG,810
+DLL,ORG,810
+Surya2Developer Online Shopping System,ORG,811
+1.0,CARDINAL,811
+POST Parameter Handler,ORG,811
+VDB-255127,GPE,811
+1.0,CARDINAL,813
+VDB-249001,PERSON,813
+SourceCodester,PERSON,814
+1.0,CARDINAL,814
