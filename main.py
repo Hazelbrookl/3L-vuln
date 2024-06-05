@@ -30,6 +30,9 @@ df_history = pd.DataFrame()
 if os.path.exists('data/history.csv'):
     df_history = pd.read_csv('data/history.csv')
 
+def convert_df(df_input):
+    return df_input.to_csv().encode('utf-8')
+
 def make_clickable(url):
     return f'<a target="_blank" href="{url}">{str(url)}</a>'
 
@@ -69,7 +72,6 @@ def call_back_saveHistory(history):
 
 def call_back_bingSearch(query):
     st.session_state.search_response = api_search(query)
-
 
 if __name__ == "__main__":
 
@@ -197,6 +199,14 @@ if __name__ == "__main__":
         
         st.title("数据")
         st.dataframe(df, use_container_width=True, height=600)
+        
+        csv_download = convert_df(df)
+        st.download_button(
+            label="下载数据",
+            data=csv_download,
+            file_name='dataset_save.csv',
+            mime='text/csv',
+        )
 
     elif st.session_state.current_page == PAGE_HISTORY:
 
@@ -212,6 +222,13 @@ if __name__ == "__main__":
             index_input = st.number_input(min_value=1,max_value=len(df_abstract),label="查找详情",placeholder="输入序号")
             st.button("view", on_click=lambda: call_back_viewDetail(df_history.loc[index_input - 1]))
             st.dataframe(df_abstract, use_container_width=True, height=500)
+            csv_download = convert_df(df_history)
+            st.download_button(
+                label="下载历史",
+                data=csv_download,
+                file_name='history_save.csv',
+                mime='text/csv',
+            )
 
     elif st.session_state.current_page == PAGE_DETAIL:
 
