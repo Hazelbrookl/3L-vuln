@@ -83,7 +83,7 @@ if __name__ == "__main__":
     with st.sidebar:
         st.title('3L漏洞报告处理大模型')
         st.markdown('---')
-        st.markdown('此工具的介绍：\n- 原始存储漏洞报告主体来源为NVD，漏洞类型和标题字段来源于CNNVD\n- 支持对输入报告的重复检测、标题拟定、漏洞分类、危害评估等四个功能\n- 支持查看工具使用记录')
+        st.markdown('此工具的介绍：\n- 原始存储漏洞报告主体来源为NVD，漏洞类型和标题字段来源于CNNVD\n- 支持对输入报告的重复报告检测、报告标题拟定、漏洞报告分类、漏洞危害评估等四个功能\n- 支持查看工具使用记录')
         col1, col2, col3, col4= st.columns(4)
         col1.button("功能", on_click=lambda: call_back_switchPage(PAGE_FUNCTION))
         col2.button("数据", on_click=lambda: call_back_switchPage(PAGE_DATASET))
@@ -105,17 +105,20 @@ if __name__ == "__main__":
 
     if "current_page" not in st.session_state:
         st.session_state.current_page = PAGE_FUNCTION
+    
+    if "default_type" not in st.session_state:
+        st.session_state.default_type = "其他"
 
     if st.session_state.current_page == PAGE_FUNCTION:
               
-        st.title("功能")
+        st.title("漏洞报告处理功能")
 
         col1, col2, col3, col4 = st.columns(4)
 
-        col1.button("重复检测", on_click=lambda: call_back_switchMode(MODE_DETECTION))
-        col2.button("标题拟定", on_click=lambda: call_back_switchMode(MODE_SUMMARIZATION))
-        col3.button("漏洞分类", on_click=lambda: call_back_switchMode(MODE_CLASSIFICATION))
-        col4.button("危害评估", on_click=lambda: call_back_switchMode(MODE_EVALUATION))
+        col1.button("重复报告检测", on_click=lambda: call_back_switchMode(MODE_DETECTION))
+        col2.button("报告标题拟定", on_click=lambda: call_back_switchMode(MODE_SUMMARIZATION))
+        col3.button("漏洞报告分类", on_click=lambda: call_back_switchMode(MODE_CLASSIFICATION))
+        col4.button("漏洞危害评估", on_click=lambda: call_back_switchMode(MODE_EVALUATION))
 
         if "current_mode" not in st.session_state:
             st.session_state.current_mode = MODE_MAIN
@@ -123,25 +126,30 @@ if __name__ == "__main__":
         if st.session_state.current_mode == MODE_MAIN:
             header_component = st.header("请选择功能")
         elif st.session_state.current_mode == MODE_DETECTION:
-            header_component = st.header("重复检测")
+            header_component = st.header("重复报告检测")
         elif st.session_state.current_mode == MODE_SUMMARIZATION:
-            header_component = st.header("标题拟定")
+            header_component = st.header("报告标题拟定")
         elif st.session_state.current_mode == MODE_CLASSIFICATION:
-            header_component = st.header("漏洞分类")
+            header_component = st.header("漏洞报告分类")
         elif st.session_state.current_mode == MODE_EVALUATION:
-            header_component = st.header("危害评估")
+            header_component = st.header("漏洞危害评估")
 
         if st.session_state.current_mode != MODE_MAIN:
             description_input = st.text_input("输入漏洞描述", "")
             if st.session_state.current_mode == MODE_EVALUATION:
                 labels =  get_labels()
                 labels.insert(0, "其他")
-                type_input = st.selectbox("输入漏洞类型", labels, 0, format_func=str)
+                type_index = 0
+                try:
+                    type_index = labels.index(st.session_state.default_type)
+                except ValueError:
+                    type_index = 0
+                type_input = st.selectbox("输入漏洞类型", labels, type_index, format_func=str)
                 # type_input = st.text_input("输入漏洞类型", "")
             else:
                 type_input = ""
         
-            if st.button("submit"):
+            if st.button("提交"):
                 if description_input != "":
                     if st.session_state.current_mode == MODE_DETECTION:
                         is_duplicated, duplicated_indices, similar_indices = api_detection(description_input)
@@ -174,11 +182,12 @@ if __name__ == "__main__":
                         st.subheader("漏洞类型：")
                         st.code(vuln_type)
                         history = {"description_input":[description_input], "vuln_type":[vuln_type]}
+                        st.session_state.default_type = vuln_type
                         call_back_saveHistory(history)
                     elif st.session_state.current_mode == MODE_EVALUATION:
                         if type_input != "":
                             vuln_metrics = api_evaluation(description_input, type_input)
-                            st.subheader("危害评估：")
+                            st.subheader("漏洞危害评估：")
                             st.markdown("攻击向量(Attack Vector, AV):")
                             st.code(vuln_metrics[0])
                             st.markdown("攻击复杂度(Attack Complexity, AC):")
@@ -196,7 +205,7 @@ if __name__ == "__main__":
 
     elif st.session_state.current_page == PAGE_DATASET:
         
-        st.title("数据")
+        st.title("漏洞数据集")
         st.dataframe(df, use_container_width=True, height=600)
         
         csv_download = convert_df(df)
@@ -209,17 +218,17 @@ if __name__ == "__main__":
 
     elif st.session_state.current_page == PAGE_HISTORY:
 
-        st.title("历史")
+        st.title("使用历史")
         if df_history.empty:
             header_component = st.header("暂无历史记录")
         else:
             df_abstract = pd.DataFrame()
             df_abstract = df_history[['mode', 'description_input']].copy()
-            mapping = {1: '重复检测', 2: '标题拟定', 3: '漏洞分类', 4: '危害评估'}
+            mapping = {1: '重复报告检测', 2: '报告标题拟定', 3: '漏洞报告分类', 4: '漏洞危害评估'}
             df_abstract['mode'] = df_abstract['mode'].map(mapping)
             df_abstract.index += 1
             index_input = st.number_input(min_value=1,max_value=len(df_abstract),label="查找详情",placeholder="输入序号")
-            st.button("view", on_click=lambda: call_back_viewDetail(df_history.loc[index_input - 1]))
+            st.button("查看", on_click=lambda: call_back_viewDetail(df_history.loc[index_input - 1]))
             st.dataframe(df_abstract, use_container_width=True, height=500)
             csv_download = convert_df(df_history)
             st.download_button(
@@ -231,7 +240,7 @@ if __name__ == "__main__":
 
     elif st.session_state.current_page == PAGE_DETAIL:
 
-        st.title("历史")
+        st.title("使用历史")
 
         df_detail = st.session_state.detail
         if df_detail is not None:
@@ -283,7 +292,7 @@ if __name__ == "__main__":
 
     elif st.session_state.current_page == PAGE_SEARCH:
 
-        st.title("搜索")
+        st.title("搜索引擎")
         search_input = st.text_input("输入查询内容", "")
         st.button("Go!", on_click=lambda: call_back_bingSearch(search_input))
         search_response = st.session_state.search_response
