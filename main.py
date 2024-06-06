@@ -248,13 +248,13 @@ if __name__ == "__main__":
                     st.success("该漏洞无疑似重复项！")
                 if len(duplicated_indices) > 0:
                     st.subheader("模型判重条目：")
-                    duplicated_indices = [duplicated_index + 1 for duplicated_index in duplicated_indices]
+                    # duplicated_indices = [duplicated_index + 1 for duplicated_index in duplicated_indices]
                     df_duplicated = df.loc[duplicated_indices].reset_index(drop=True)
                     df_duplicated.index += 1
                     st.dataframe(df_duplicated, use_container_width=True)
                 if len(similar_indices) > 0:
                     st.subheader("实体匹配条目：")
-                    similar_indices = [similar_index + 1 for similar_index in similar_indices]
+                    # similar_indices = [similar_index + 1 for similar_index in similar_indices]
                     df_similar = df.loc[similar_indices].reset_index(drop=True)
                     df_similar.index += 1
                     st.dataframe(df_similar, use_container_width=True)
