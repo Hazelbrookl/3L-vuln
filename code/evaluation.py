@@ -8,6 +8,7 @@ from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_sc
 import re
 import random
 import math
+import concurrent.futures
 
 CVSS_AV_NETWORK = 0.85
 CVSS_AV_ADJACENT_NETWORK = 0.62
@@ -563,6 +564,51 @@ def statistics():
     plt.title('Confusion Matrix')
     plt.show()
 
+def evaluate_single_metric(metric_index, data_type_list, input_type, severity_true, hints, description, metric_names, metrics):
+    index_dict = {key: [] for key in metrics[metric_index][1:]}
+    index_count = 0
+    for i, type in enumerate(data_type_list):
+        if type == input_type and severity_true[i][metric_index] != "":
+            index_dict.get(severity_true[i][metric_index]).append(i)
+            index_count += 1
+
+    examples_total = 10
+    examples = {key: [] for key in metrics[metric_index][1:]}
+    for key, value in index_dict.items():
+        if index_count == 0:
+            break
+        for i in range(math.ceil((len(value) / index_count) * examples_total)):
+            if value:  # 确保列表不是空
+                choice = random.choice(value)
+                while severity_true[choice][metric_index] == "":
+                    value.remove(choice)
+                    if value:
+                        choice = random.choice(value)
+                    else:
+                        choice = None
+                        break
+                if choice:
+                    examples.get(key).append(hints[metric_index][choice])
+            else:
+                break
+
+    for key, value in examples.items():
+        if len(value) == 0:
+            value = "库中暂无该取值的数据。"
+
+    prompt = vulnerability_severity_evaluation_prompt_generate(
+        description, metric_names[metric_index], metrics[metric_index][0], metrics[metric_index][1:], examples)
+    res = call_llm(prompt)
+    prompt = evaluation_format_prompt_generate(res, metric_names[metric_index], metrics[metric_index][1:])
+    ans = call_llm(prompt)
+
+    ans = ans.upper()
+    res = "无法判断"
+    for key in metrics[metric_index][1:]:
+        if re.search(key, ans):
+            res = key
+    return metric_index, res
+
 def api_evaluation(description, input_type):
 
     metrics = get_metrics()
@@ -620,51 +666,57 @@ def api_evaluation(description, input_type):
 
     hints = [hint_av_list, hint_ac_list, hint_pr_list, hint_ui_list]
 
-    severity = []
+    severity = [None] * 4
 
-    for metric_index in range(4):
-        index_dict = {key:[] for key in metrics[metric_index][1:]}
-        index_count = 0
-        for i, type in enumerate(data_type_list):
-            if type == input_type and severity_true[i][metric_index] != "":
-                index_dict.get(severity_true[i][metric_index]).append(i)
-                index_count += 1
+    # for metric_index in range(4):
+    #     index_dict = {key:[] for key in metrics[metric_index][1:]}
+    #     index_count = 0
+    #     for i, type in enumerate(data_type_list):
+    #         if type == input_type and severity_true[i][metric_index] != "":
+    #             index_dict.get(severity_true[i][metric_index]).append(i)
+    #             index_count += 1
 
-        examples_total = 10
-        examples = {key:[] for key in metrics[metric_index][1:]}
-        for key, value in index_dict.items():
-            if index_count == 0:
-                break
-            for i in range(math.ceil((len(value)/index_count)*examples_total)):
-                if value:  # 确保列表不是空
-                    choice = random.choice(value)
-                    while severity_true[choice][metric_index] == "":
-                        value.remove(choice)
-                        if value:
-                            choice = random.choice(value)
-                        else:
-                            choice = None
-                            break
-                    if choice:
-                        examples.get(key).append(hints[metric_index][choice])
-                else:
-                    break
+    #     examples_total = 10
+    #     examples = {key:[] for key in metrics[metric_index][1:]}
+    #     for key, value in index_dict.items():
+    #         if index_count == 0:
+    #             break
+    #         for i in range(math.ceil((len(value)/index_count)*examples_total)):
+    #             if value:  # 确保列表不是空
+    #                 choice = random.choice(value)
+    #                 while severity_true[choice][metric_index] == "":
+    #                     value.remove(choice)
+    #                     if value:
+    #                         choice = random.choice(value)
+    #                     else:
+    #                         choice = None
+    #                         break
+    #                 if choice:
+    #                     examples.get(key).append(hints[metric_index][choice])
+    #             else:
+    #                 break
 
-        for key, value in examples.items():
-            if len(value) == 0:
-                value = "库中暂无该取值的数据。"
+    #     for key, value in examples.items():
+    #         if len(value) == 0:
+    #             value = "库中暂无该取值的数据。"
 
-        prompt = vulnerability_severity_evaluation_prompt_generate(description, metric_names[metric_index], metrics[metric_index][0], metrics[metric_index][1:],examples)
-        res = call_llm(prompt)
-        prompt = evaluation_format_prompt_generate(res, metric_names[metric_index], metrics[metric_index][1:])
-        ans = call_llm(prompt)
+    #     prompt = vulnerability_severity_evaluation_prompt_generate(description, metric_names[metric_index], metrics[metric_index][0], metrics[metric_index][1:],examples)
+    #     res = call_llm(prompt)
+    #     prompt = evaluation_format_prompt_generate(res, metric_names[metric_index], metrics[metric_index][1:])
+    #     ans = call_llm(prompt)
 
-        ans = ans.upper()
-        res = "无法判断"
-        for key in metrics[metric_index][1:]:
-            if re.search(key, ans):
-                res = key
-        severity.append(res)
+    #     ans = ans.upper()
+    #     res = "无法判断"
+    #     for key in metrics[metric_index][1:]:
+    #         if re.search(key, ans):
+    #             res = key
+    #     severity.append(res)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
+        future_to_index = {executor.submit(evaluate_single_metric, metric_index, data_type_list, input_type, severity_true, hints, description, metric_names, metrics): metric_index for metric_index in range(4)}
+    
+    for future in concurrent.futures.as_completed(future_to_index):
+        index, result = future.result()
+        severity[index] = result
     
     return severity  
 
