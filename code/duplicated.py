@@ -2,6 +2,7 @@ import csv
 import random
 from .lllchat import check_duplicated_report_prompt_generate, report_detail_hint_prompt_generate, check_duplicated_report_with_hint_prompt_generate, call_llm
 from .similarity import extract_input_entity, find_similar
+import concurrent.futures
 
 
 keys = ['is_duplicated', 'correct_match', 'details']
@@ -176,6 +177,17 @@ def check_random_items():
 
         writer.writerow(["tp", tp, "fp", fp, "tn", tn, "fn", fn])
 
+def check_single_duplicate(description, similar_index, data_list):
+    similar_index = int(similar_index)
+    prompt = report_detail_hint_prompt_generate(description, data_list[similar_index])
+    ans = call_llm(prompt)
+    prompt = check_duplicated_report_with_hint_prompt_generate(description, data_list[similar_index], ans)
+    ans = call_llm(prompt)
+    
+    if ans == "是":
+        return similar_index
+    return None
+
 def api_detection(description):
     data_list = []
     with open('./data/nvd_data_from_id_202402.csv', 'r', newline='', encoding='utf-8') as csvfile:
@@ -190,17 +202,25 @@ def api_detection(description):
     similar_indices = find_similar(entity_list[0][0:1], './data/entity_llm_202402.csv')
     is_duplicated = False
     duplicated_content = []
-    for similar_index in similar_indices:
-        similar_index = int(similar_index)
+    # for similar_index in similar_indices:
+    #     similar_index = int(similar_index)
 
-        prompt = report_detail_hint_prompt_generate(description, data_list[similar_index])
-        ans = call_llm(prompt)
-        prompt = check_duplicated_report_with_hint_prompt_generate(description, data_list[similar_index], ans)
-        ans = call_llm(prompt)
+    #     prompt = report_detail_hint_prompt_generate(description, data_list[similar_index])
+    #     ans = call_llm(prompt)
+    #     prompt = check_duplicated_report_with_hint_prompt_generate(description, data_list[similar_index], ans)
+    #     ans = call_llm(prompt)
     
-        if ans == "是":
+    #     if ans == "是":
+    #         is_duplicated = True
+    #         duplicated_content.append(similar_index)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
+        future_to_index = {executor.submit(check_single_duplicate, description, index, data_list): index for index in similar_indices}
+    
+    for future in concurrent.futures.as_completed(future_to_index):
+        result = future.result()
+        if result is not None:
             is_duplicated = True
-            duplicated_content.append(similar_index)
+            duplicated_content.append(result)
 
     return is_duplicated, duplicated_content, similar_indices
 
